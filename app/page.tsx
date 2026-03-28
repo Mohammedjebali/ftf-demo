@@ -192,13 +192,13 @@ export default function HomePage() {
           </div>
 
           {/* National team */}
-          <div style={{ borderRadius: "14px", overflow: "hidden", position: "relative", aspectRatio: "16/9" }}>
-            <img src="/rades-match.jpg" alt="Aigles de Carthage" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
-            <div style={{ position: "absolute", inset: 0, background: "linear-gradient(135deg, rgba(200,16,46,0.7), rgba(0,0,0,0.5))" }} />
+          <div style={{ borderRadius: "14px", overflow: "hidden", position: "relative", aspectRatio: "16/9", background: "#0a0a0a" }}>
+            <img src="/rades-match.jpg" alt="Stade de Radès" style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover", objectPosition: "center 30%" }} />
+            <div style={{ position: "absolute", inset: 0, background: "linear-gradient(to top, rgba(0,0,0,0.9) 0%, rgba(200,16,46,0.3) 50%, transparent 100%)" }} />
             <div style={{ position: "absolute", inset: 0, display: "flex", flexDirection: "column", justifyContent: "flex-end", padding: "20px" }}>
-              <img src="https://flagcdn.com/w40/tn.png" alt="TN" style={{ height: "18px", marginBottom: "8px", borderRadius: "2px" }} />
+              <img src="https://upload.wikimedia.org/wikipedia/en/c/c4/Tunisia_national_football_team_logo.png" alt="Tunisia" style={{ height: "36px", width: "36px", objectFit: "contain", marginBottom: "8px" }} onError={(e) => { e.currentTarget.style.display = "none"; }} />
               <p style={{ color: "#fff", fontWeight: 800, fontSize: "16px", lineHeight: 1.2 }}>Aigles de Carthage</p>
-              <p style={{ color: "rgba(255,255,255,0.6)", fontSize: "12px", marginTop: "4px" }}>Sélection Nationale Senior</p>
+              <p style={{ color: "rgba(255,255,255,0.6)", fontSize: "12px", marginTop: "4px" }}>Sélection Nationale Senior · #47 FIFA</p>
               <a href="/selection" className="btn btn-primary" style={{ alignSelf: "flex-start", marginTop: "12px", padding: "8px 16px", fontSize: "12px" }}>Découvrir →</a>
             </div>
           </div>
