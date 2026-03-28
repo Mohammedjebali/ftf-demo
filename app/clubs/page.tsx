@@ -87,8 +87,11 @@ export default function ClubsPage() {
 
         {/* Grid */}
         <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(280px, 1fr))", gap: "16px" }}>
-          {filtered.map((c, i) => (
-            <div key={i} className="card" style={{ overflow: "hidden" }}>
+          {filtered.map((c, i) => {
+            const slug = c.name.toLowerCase().replace(/[éèê]/g, "e").replace(/[àâ]/g, "a").replace(/[ùû]/g, "u").replace(/[î]/g, "i").replace(/[ô]/g, "o").replace(/[ç]/g, "c").replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
+            return (
+            <a key={i} href={`/clubs/${slug}`} style={{ textDecoration: "none", display: "block" }}>
+            <div className="card" style={{ overflow: "hidden", cursor: "pointer" }}>
               {/* Club color bar */}
               <div style={{ height: "4px", background: `linear-gradient(90deg, ${c.color}, transparent)` }} />
               <div style={{ padding: "20px" }}>
@@ -127,7 +130,9 @@ export default function ClubsPage() {
                 </div>
               </div>
             </div>
-          ))}
+            </a>
+            );
+          })}
         </div>
       </div>
 
