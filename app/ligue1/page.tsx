@@ -67,7 +67,7 @@ export default function Ligue1Page() {
             <div style={{ width: "40px", height: "40px", borderRadius: "50%", background: `${RED}22`, border: `1px solid ${RED}44`, display: "flex", alignItems: "center", justifyContent: "center", fontSize: "20px" }}>🏆</div>
             <div>
               <h1 style={{ fontSize: "clamp(1.4rem,3vw,2rem)", fontWeight: 900, color: TEXT, letterSpacing: "-0.02em" }}>Ligue 1 Professionnelle</h1>
-              <p style={{ color: MUTED, fontSize: "13px" }}>Saison 2025/2026 · Tunisie · <span style={{ color: "#4ade80" }}>● Données en direct (ftf.org.tn)</span></p>
+              <p style={{ color: MUTED, fontSize: "13px" }}>Saison 2024/2025 · Tunisie · <span style={{ color: "#4ade80" }}>● Données en direct (ftf.org.tn)</span></p>
             </div>
           </div>
         </div>
