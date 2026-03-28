@@ -63,7 +63,7 @@ export default function SelectionPage() {
 
       {/* Hero */}
       <div style={{ position: "relative", minHeight: "320px", display: "flex", alignItems: "flex-end", overflow: "hidden" }}>
-        <div style={{ position: "absolute", inset: 0, backgroundImage: "url(https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=1600&q=80)", backgroundSize: "cover", backgroundPosition: "center", filter: "brightness(0.2)" }} />
+        <div style={{ position: "absolute", inset: 0, backgroundImage: "url(/rades-match.jpg)", backgroundSize: "cover", backgroundPosition: "center", filter: "brightness(0.25)" }} />
         <div style={{ position: "absolute", inset: 0, background: "linear-gradient(135deg, rgba(200,16,46,0.2) 0%, transparent 50%)" }} />
         <div style={{ position: "absolute", bottom: 0, left: 0, right: 0, height: "150px", background: `linear-gradient(to top, ${DARK}, transparent)` }} />
         <div style={{ position: "relative", maxWidth: "1280px", margin: "0 auto", padding: "0 24px 48px", width: "100%" }}>
