@@ -54,9 +54,9 @@ export default function ContactPage() {
             <div style={{ display: "flex", flexDirection: "column", gap: "16px", marginBottom: "40px" }}>
               {[
                 { icon: "▸", label: "Adresse", value: "Avenue Mohamed Ali Akid\nCité Olympique, Tunis 1003" },
-                { icon: "📞", label: "Téléphone", value: "+216 71 783 843" },
+                { icon: "📞", label: "Téléphone", value: "+216 71 793 760\n+216 71 793 761\n+216 71 793 767" },
                 { icon: "📠", label: "Fax", value: "+216 71 802 323" },
-                { icon: "🌐", label: "Site officiel", value: "www.ftf.org.tn" },
+                { icon: "✉️", label: "Email", value: "ftf@ftf.org.tn" },
                 { icon: "🌐", label: "Site web", value: "www.ftf.org.tn" },
               ].map((c, i) => (
                 <div key={i} className="card" style={{ padding: "16px 20px", display: "flex", gap: "14px", alignItems: "flex-start" }}>
