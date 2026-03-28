@@ -58,6 +58,132 @@ const CLUBS: Record<string, {
       { name: "Franck Kom", pos: "MF", nat: "🇨🇲" },
     ]
   },
+  "union-sportive-de-monastir": {
+    name: "Union Sportive de Monastir", short: "USM", city: "Monastir", founded: 1923,
+    stadium: "Stade Mustapha Ben Jannet", cap: 18000, league: "Ligue 1", region: "Centre-Est",
+    titles: 2, color: "#1a3a8a", logo: "/logo-usm.png",
+    president: "Slim Riahi", coach: "Khaled Souayah",
+    bio: "L'Union Sportive de Monastir est l'un des clubs les plus récemment promus parmi l'élite du football tunisien. Fondée en 1923 dans la ville côtière de Monastir, patrie de Habib Bourguiba, le club a connu une montée en puissance remarquable ces dernières années grâce à des investissements importants.",
+    palmares: ["2× Champion de Tunisie", "1× Coupe de Tunisie"],
+    players: [{ name: "Hamza Younes", pos: "GK", nat: "🇹🇳" }, { name: "Bassem Srarfi", pos: "MF", nat: "🇹🇳" }]
+  },
+  "club-athletique-de-bizertin": {
+    name: "Club Athlétique de Bizertin", short: "CAB", city: "Bizerte", founded: 1931,
+    stadium: "Stade Mestiri", cap: 11500, league: "Ligue 1", region: "Nord",
+    titles: 3, color: "#0057a8", logo: "https://upload.wikimedia.org/wikipedia/en/e/e5/CA_Bizertin.png",
+    president: "Hédi Jeridi", coach: "Riadh Kraiem",
+    bio: "Le Club Athlétique de Bizertin représente fièrement la ville portuaire de Bizerte, capitale du nord tunisien. Fondé en 1931, le club est l'un des piliers du football du nord de la Tunisie avec 3 titres nationaux à son actif.",
+    palmares: ["3× Champion de Tunisie", "3× Coupe de Tunisie"],
+    players: [{ name: "Mokhtar Benbrahem", pos: "GK", nat: "🇹🇳" }, { name: "Yassin Meriah", pos: "DF", nat: "🇹🇳" }]
+  },
+  "association-sportive-de-la-marsa": {
+    name: "Association Sportive de la Marsa", short: "ASM", city: "La Marsa", founded: 1934,
+    stadium: "Stade de la Marsa", cap: 8000, league: "Ligue 1", region: "Grand Tunis",
+    titles: 1, color: "#2d8a2d", logo: "/logo-asm.png",
+    president: "Mohamed Ghali", coach: "Nabil Kouki",
+    bio: "L'Association Sportive de la Marsa est un club de banlieue nord de Tunis, basé dans la station balnéaire de La Marsa. Fondée en 1934, l'ASM évolue régulièrement entre la Ligue 1 et la Ligue 2.",
+    palmares: ["1× Champion de Tunisie", "1× Coupe de Tunisie"],
+    players: [{ name: "Hamdi Harbaoui", pos: "FW", nat: "🇹🇳" }]
+  },
+  "jeunesse-sportive-de-kairouan": {
+    name: "Jeunesse Sportive de Kairouan", short: "JSK", city: "Kairouan", founded: 1953,
+    stadium: "Stade du 7-Novembre", cap: 9000, league: "Ligue 1", region: "Centre-Ouest",
+    titles: 0, color: "#1a6a3a", logo: "/logo-jsk.png",
+    president: "Farouk Ben Ammar", coach: "Riadh Bouazizi",
+    bio: "La Jeunesse Sportive de Kairouan représente la ville sainte de Kairouan, l'une des plus importantes cités islamiques d'Afrique. Fondée en 1953, la JSK est la fierté du centre-ouest tunisien et milite régulièrement en première division.",
+    palmares: ["Plusieurs promotions en Ligue 1"],
+    players: [{ name: "Aymen Haj Hamida", pos: "MF", nat: "🇹🇳" }]
+  },
+  "association-sportive-de-gabes": {
+    name: "Association Sportive de Gabès", short: "ASG", city: "Gabès", founded: 1944,
+    stadium: "Stade Ben Jannet de Gabès", cap: 8500, league: "Ligue 1", region: "Sud",
+    titles: 0, color: "#c8102e", logo: "/logo-asg.png",
+    president: "Chokri Bensalem", coach: "Hichem Ben Ammar",
+    bio: "L'Association Sportive de Gabès est le club phare du sud-est tunisien, basé dans la ville côtière de Gabès. Fondée en 1944, l'ASG représente une région à forte identité culturelle et milite pour se maintenir parmi l'élite nationale.",
+    palmares: ["Promotions en Ligue 1"],
+    players: [{ name: "Maher Hannachi", pos: "FW", nat: "🇹🇳" }]
+  },
+  "union-sportive-de-tataouine": {
+    name: "Union Sportive de Tataouine", short: "UST", city: "Tataouine", founded: 1996,
+    stadium: "Stade Municipal de Tataouine", cap: 7000, league: "Ligue 1", region: "Sud",
+    titles: 0, color: "#c8102e", logo: "/logo-ust.png",
+    president: "Abdelmalek Ben Barka", coach: "Sofiene Bougacha",
+    bio: "L'Union Sportive de Tataouine est le club de la ville frontalière de Tataouine, aux portes du Sahara tunisien. Fondée en 1996, l'UST incarne la résilience du football du grand sud et a su se tailler une place parmi les clubs de Ligue 1.",
+    palmares: ["Promotions successives en Ligue 1"],
+    players: [{ name: "Nizar Issaoui", pos: "MF", nat: "🇹🇳" }]
+  },
+  "esperance-sportive-metlaoui": {
+    name: "Espérance Sportive Métlaoui", short: "ESM", city: "Métlaoui", founded: 1950,
+    stadium: "Stade de Métlaoui", cap: 7000, league: "Ligue 1", region: "Sud-Ouest",
+    titles: 0, color: "#e8c547", logo: "/logo-esm.png",
+    president: "Walid Ben Amara", coach: "Mohamed Trabelsi",
+    bio: "L'Espérance Sportive Métlaoui est le club de la ville minière de Métlaoui dans le Bassin minier de Gafsa. Fondée en 1950, l'ESM représente la tradition ouvrière et sportive d'une région riche en phosphate mais parfois oubliée des spotlights du football national.",
+    palmares: ["Promotions en Ligue 1"],
+    players: [{ name: "Sofiene Chaabani", pos: "DF", nat: "🇹🇳" }]
+  },
+  "club-sportif-hammam-lif": {
+    name: "Club Sportif Hammam-Lif", short: "CSHL", city: "Hammam-Lif", founded: 1944,
+    stadium: "Stade de Hammam-Lif", cap: 6500, league: "Ligue 1", region: "Grand Tunis",
+    titles: 1, color: "#2d7a2d", logo: "/logo-cshl.png",
+    president: "Lassaad Rajhi", coach: "Hatem Haouachi",
+    bio: "Le Club Sportif Hammam-Lif est basé dans la ville balnéaire de Hammam-Lif au sud de Tunis. Fondé en 1944, le club est l'un des clubs historiques de la banlieue de la capitale et a remporté un titre national.",
+    palmares: ["1× Champion de Tunisie", "1× Coupe de Tunisie"],
+    players: [{ name: "Bilel Khelifa", pos: "FW", nat: "🇹🇳" }]
+  },
+  "association-sportive-de-djerba": {
+    name: "Association Sportive de Djerba", short: "ASD", city: "Djerba", founded: 1938,
+    stadium: "Stade Mohamed Salah", cap: 7500, league: "Ligue 1", region: "Sud",
+    titles: 0, color: "#2d8a2d", logo: "/logo-asd.png",
+    president: "Moncef Loukil", coach: "Hedi Laouiti",
+    bio: "L'Association Sportive de Djerba représente l'île touristique de Djerba, la 'Île aux Lotophages' de l'Antiquité. Fondée en 1938, l'ASD est la fierté footballistique de cette île méditerranéenne au riche patrimoine culturel.",
+    palmares: ["Promotions en Ligue 1"],
+    players: [{ name: "Wael Ben Saha", pos: "MF", nat: "🇹🇳" }]
+  },
+  "union-sportive-de-ben-guerdane": {
+    name: "Union Sportive de Ben Guerdane", short: "USBG", city: "Ben Guerdane", founded: 1955,
+    stadium: "Stade de Ben Guerdane", cap: 5000, league: "Ligue 1", region: "Sud",
+    titles: 0, color: "#e8c547", logo: "/logo-usbg.png",
+    president: "Tarek Bel Hadj Ali", coach: "Bassem Ben Kraiem",
+    bio: "L'Union Sportive de Ben Guerdane est le club de la ville frontalière de Ben Guerdane, aux portes de la Libye. Fondée en 1955, l'USBG a connu des épisodes historiques et représente une région stratégique du sud-est tunisien.",
+    palmares: ["Promotions en Ligue 1"],
+    players: [{ name: "Anis Nasri", pos: "DF", nat: "🇹🇳" }]
+  },
+  "esperance-sportive-de-zarzis": {
+    name: "Espérance Sportive de Zarzis", short: "ESZ", city: "Zarzis", founded: 1934,
+    stadium: "Stade Municipal de Zarzis", cap: 6000, league: "Ligue 1", region: "Sud",
+    titles: 0, color: "#e8c547", logo: "/logo-esz.png",
+    president: "Lotfi Ben Oun", coach: "Noureddine Dhieb",
+    bio: "L'Espérance Sportive de Zarzis est le club de la ville côtière de Zarzis dans le gouvernorat de Médenine. Fondée en 1934, l'ESZ est une institution sportive du littoral sud tunisien et milite pour s'établir durablement en Ligue 1.",
+    palmares: ["Promotions en Ligue 1"],
+    players: [{ name: "Mehdi Ben Dhiab", pos: "FW", nat: "🇹🇳" }]
+  },
+  "stade-tunisien": {
+    name: "Stade Tunisien", short: "ST", city: "Tunis", founded: 1944,
+    stadium: "Stade Zouiten", cap: 8000, league: "Ligue 2", region: "Grand Tunis",
+    titles: 2, color: "#c8102e", logo: "/logo-st.png",
+    president: "Khaled Aouini", coach: "Saber Amri",
+    bio: "Le Stade Tunisien est un club historique de Tunis, fondé en 1944. Avec 2 championnats nationaux à son actif, le ST milite actuellement en Ligue 2 et aspire à retrouver l'élite du football tunisien.",
+    palmares: ["2× Champion de Tunisie", "2× Coupe de Tunisie"],
+    players: [{ name: "Yassine Ben Yahia", pos: "GK", nat: "🇹🇳" }]
+  },
+  "sfax-railway-sport": {
+    name: "Sfax Railway Sport", short: "SRS", city: "Sfax", founded: 1920,
+    stadium: "Stade Taïeb Mhiri", cap: 22000, league: "Ligue 2", region: "Sud-Est",
+    titles: 0, color: "#e8c547", logo: "/logo-srs.png",
+    president: "Jamel Ben Mrad", coach: "Lotfi Laouiti",
+    bio: "Le Sfax Railway Sport est l'un des clubs fondateurs du football tunisien, créé en 1920. Lié historiquement aux travailleurs du chemin de fer de Sfax, le SRS est un club emblématique de la capitale économique du sud tunisien.",
+    palmares: ["Finaliste Coupe de Tunisie"],
+    players: [{ name: "Mokhtar Tlili", pos: "MF", nat: "🇹🇳" }]
+  },
+  "jeunesse-sportive-del-abiodh": {
+    name: "Jeunesse Sportive d'El Abiodh", short: "JSEA", city: "Sidi Bouzid", founded: 1960,
+    stadium: "Stade de Sidi Bouzid", cap: 5500, league: "Ligue 1", region: "Centre-Ouest",
+    titles: 0, color: "#c084fc", logo: undefined,
+    president: "Mohamed Kahloun", coach: "Hichem Jemai",
+    bio: "La Jeunesse Sportive d'El Abiodh représente la région de Sidi Bouzid, symbole de la Révolution tunisienne de 2011. Fondée en 1960, la JSEA incarne la passion footballistique d'une région au cœur de l'histoire contemporaine de la Tunisie.",
+    palmares: ["Promotions en Ligue 1"],
+    players: [{ name: "Ramzi Ben Hamza", pos: "MF", nat: "🇹🇳" }]
+  },
   "club-sportif-sfaxien": {
     name: "Club Sportif Sfaxien", short: "CSS", city: "Sfax", founded: 1928,
     stadium: "Stade Taïeb Mhiri", cap: 22000, league: "Ligue 1", region: "Sud-Est",
