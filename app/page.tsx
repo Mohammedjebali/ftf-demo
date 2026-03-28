@@ -62,7 +62,7 @@ export default function HomePage() {
           </div>
           <h1 className="fade-up-2" style={{ fontSize: "clamp(2rem, 6vw, 4rem)", fontWeight: 900, color: TEXT, lineHeight: 1.05, letterSpacing: "-0.03em", marginBottom: "20px", maxWidth: "700px" }}>
             Le football tunisien<br />
-            <span style={{ background: `linear-gradient(135deg, ${RED}, #ff4060)`, WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent" }}>en temps réel</span>
+            <span style={{ background: `linear-gradient(135deg, ${RED}, #ff4060)`, WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent" }}>au sommet de l'Afrique</span>
           </h1>
           <p className="fade-up-3" style={{ color: "#6a6a6a", fontSize: "16px", maxWidth: "480px", lineHeight: 1.7, marginBottom: "36px" }}>
             Résultats, classements, équipe nationale et toute l'actualité de la Ligue 1 Professionnelle.

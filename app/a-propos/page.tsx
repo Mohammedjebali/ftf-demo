@@ -11,9 +11,8 @@ const MUTED = "#5a5a5a";
 const ACCENT = "#e8c547";
 
 const TIMELINE = [
-  { year: "1956", title: "Fondation de la FTF", desc: "La Fédération Tunisienne de Football est fondée le 13 mai 1956, quelques semaines après l'indépendance du pays." },
-  { year: "1960", title: "Adhésion à la FIFA", desc: "La Tunisie devient membre officiel de la FIFA, ouvrant la voie aux compétitions internationales." },
-  { year: "1960", title: "Adhésion à la CAF", desc: "Membre fondateur de la Confédération Africaine de Football lors de sa création à Khartoum." },
+  { year: "1957", title: "Fondation de la FTF", desc: "La Fédération Tunisienne de Football est fondée le 29 mars 1957, après l'indépendance de la Tunisie en 1956, en remplacement de la Ligue Tunisienne de Football liée à la Fédération Française." },
+  { year: "1960", title: "Adhésion à la FIFA & CAF", desc: "La Tunisie devient membre officiel de la FIFA et de la Confédération Africaine de Football (CAF) en 1960, ouvrant la voie aux compétitions internationales." },
   { year: "1978", title: "1ère Coupe du Monde", desc: "La Tunisie participe à sa première Coupe du Monde en Argentine, devenant la première nation africaine à remporter un match en phase finale (3-1 face au Mexique)." },
   { year: "1994", title: "CAN 1994", desc: "Organisation de la Coupe d'Afrique des Nations, premier grand tournoi continental organisé en Tunisie." },
   { year: "2004", title: "Champions d'Afrique", desc: "La Tunisie remporte la Coupe d'Afrique des Nations chez elle, sacre historique des Aigles de Carthage." },
@@ -23,14 +22,12 @@ const TIMELINE = [
 ];
 
 const BOARD = [
-  { role: "Président", name: "Wadii Jary", since: "2021", emoji: "🏛️" },
-  { role: "1er Vice-Président", name: "Maher Taoufik", since: "2021", emoji: "⚽" },
-  { role: "2e Vice-Président", name: "Hedi Missaoui", since: "2021", emoji: "⚽" },
-  { role: "Secrétaire Général", name: "Chokri Guesmi", since: "2021", emoji: "📋" },
-  { role: "Trésorier Général", name: "Zied Ben Amara", since: "2021", emoji: "💼" },
-  { role: "Membre du Bureau", name: "Imed Ben Salem", since: "2021", emoji: "👤" },
-  { role: "Membre du Bureau", name: "Kamel Laâbidi", since: "2021", emoji: "👤" },
-  { role: "Membre du Bureau", name: "Mokhtar Tlili", since: "2021", emoji: "👤" },
+  { role: "Président", name: "Moez Nasri", since: "2025", emoji: "🏛️" },
+  { role: "Vice-Président", name: "Hussein Jenayah", since: "2025", emoji: "⚽" },
+  { role: "Sélectionneur National", name: "Sabri Lamouchi", since: "2024", emoji: "🎽" },
+  { role: "Secrétaire Général", name: "—", since: "2025", emoji: "📋" },
+  { role: "Direction Technique", name: "DTN", since: "2025", emoji: "💼" },
+  { role: "Commission Arbitrage", name: "—", since: "2025", emoji: "🟨" },
 ];
 
 const DEPTS = [
@@ -62,7 +59,7 @@ export default function AProposPage() {
             Fédération Tunisienne de Football
           </h1>
           <p style={{ color: MUTED, fontSize: "15px", maxWidth: "600px", lineHeight: 1.7 }}>
-            Organe directeur du football tunisien depuis 1956, la FTF veille au développement, à l'organisation et à la promotion du football sous toutes ses formes sur l'ensemble du territoire national.
+            Organe directeur du football tunisien depuis 1957, la FTF veille au développement, à l'organisation et à la promotion du football sous toutes ses formes sur l'ensemble du territoire national. Affiliée à la FIFA et à la CAF depuis 1960, basée à El Menzah, Tunis.
           </p>
         </div>
       </div>
@@ -71,7 +68,7 @@ export default function AProposPage() {
         {/* Key stats */}
         <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(160px, 1fr))", gap: "12px", marginBottom: "60px" }}>
           {[
-            { label: "Années d'existence", value: "70+", color: ACCENT },
+            { label: "Fondée en", value: "1957", color: ACCENT },
             { label: "Clubs affiliés", value: "450+", color: RED },
             { label: "Joueurs licenciés", value: "85 000+", color: "#4ade80" },
             { label: "Arbitres actifs", value: "1 200+", color: "#60a5fa" },
