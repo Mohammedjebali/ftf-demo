@@ -11,10 +11,10 @@ const TEXT = "#f0ece4";
 const MUTED = "#5a5a5a";
 
 const CLUBS = [
-  { name: "Espérance Sportive de Tunis", short: "EST", city: "Tunis", founded: 1919, stadium: "Stade Olympique de Radès", cap: 60000, league: "Ligue 1", region: "Grand Tunis", titles: 32, color: "#c8102e" },
-  { name: "Club Africain", short: "CA", city: "Tunis", founded: 1920, stadium: "Stade Olympique de Radès", cap: 60000, league: "Ligue 1", region: "Grand Tunis", titles: 12, color: "#e8c547" },
-  { name: "Étoile Sportive du Sahel", short: "ESS", city: "Sousse", founded: 1925, stadium: "Stade Olympique de Sousse", cap: 22000, league: "Ligue 1", region: "Centre-Est", titles: 14, color: "#ffd700" },
-  { name: "Club Sportif Sfaxien", short: "CSS", city: "Sfax", founded: 1928, stadium: "Stade Taïeb Mhiri", cap: 22000, league: "Ligue 1", region: "Sud-Est", titles: 8, color: "#000000" },
+  { name: "Espérance Sportive de Tunis", short: "EST", city: "Tunis", founded: 1919, stadium: "Stade Olympique de Radès", cap: 60000, league: "Ligue 1", region: "Grand Tunis", titles: 32, color: "#c8102e", logo: "https://upload.wikimedia.org/wikipedia/en/f/fb/Esp%C3%A9rance_Sportive_de_Tunis_logo.png" },
+  { name: "Club Africain", short: "CA", city: "Tunis", founded: 1920, stadium: "Stade Olympique de Radès", cap: 60000, league: "Ligue 1", region: "Grand Tunis", titles: 12, color: "#e8c547", logo: "https://upload.wikimedia.org/wikipedia/en/c/c5/ClubAfricainlogo.gif" },
+  { name: "Étoile Sportive du Sahel", short: "ESS", city: "Sousse", founded: 1925, stadium: "Stade Olympique de Sousse", cap: 22000, league: "Ligue 1", region: "Centre-Est", titles: 14, color: "#ffd700", logo: "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Logo_Etoile_du_Sahel.svg/220px-Logo_Etoile_du_Sahel.svg.png" },
+  { name: "Club Sportif Sfaxien", short: "CSS", city: "Sfax", founded: 1928, stadium: "Stade Taïeb Mhiri", cap: 22000, league: "Ligue 1", region: "Sud-Est", titles: 8, color: "#1a1a1a", logo: "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Club_Sportif_Sfaxien.svg/220px-Club_Sportif_Sfaxien.svg.png" },
   { name: "Union Sportive de Monastir", short: "USM", city: "Monastir", founded: 1923, stadium: "Stade Mustapha Ben Jannet", cap: 18000, league: "Ligue 1", region: "Centre-Est", titles: 2, color: "#c8102e" },
   { name: "Club Athlétique de Bizertin", short: "CAB", city: "Bizerte", founded: 1931, stadium: "Stade Mestiri", cap: 11500, league: "Ligue 1", region: "Nord", titles: 3, color: "#0057a8" },
   { name: "Association Sportive de la Marsa", short: "ASM", city: "La Marsa", founded: 1934, stadium: "Stade de la Marsa", cap: 8000, league: "Ligue 1", region: "Grand Tunis", titles: 1, color: "#e8c547" },
@@ -94,8 +94,12 @@ export default function ClubsPage() {
               <div style={{ padding: "20px" }}>
                 {/* Logo placeholder */}
                 <div style={{ display: "flex", alignItems: "center", gap: "14px", marginBottom: "16px" }}>
-                  <div style={{ width: "54px", height: "54px", borderRadius: "50%", background: `radial-gradient(circle at 30% 30%, ${c.color}33, ${c.color}11)`, border: `2px solid ${c.color}44`, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                    <span style={{ color: c.color, fontWeight: 900, fontSize: "14px" }}>{c.short}</span>
+                  <div style={{ width: "54px", height: "54px", borderRadius: "50%", background: `radial-gradient(circle at 30% 30%, ${c.color}22, #111)`, border: `1.5px solid ${c.color}33`, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, overflow: "hidden" }}>
+                    {(c as { logo?: string }).logo ? (
+                      <img src={(c as { logo?: string }).logo} alt={c.short} style={{ width: "44px", height: "44px", objectFit: "contain" }} onError={e => { (e.currentTarget as HTMLImageElement).style.display = "none"; }} />
+                    ) : (
+                      <span style={{ color: c.color, fontWeight: 900, fontSize: "14px" }}>{c.short}</span>
+                    )}
                   </div>
                   <div>
                     <div style={{ color: TEXT, fontWeight: 700, fontSize: "14px", lineHeight: 1.3 }}>{c.name}</div>

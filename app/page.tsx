@@ -51,7 +51,7 @@ export default function HomePage() {
       {/* Hero */}
       <section style={{ position: "relative", minHeight: "520px", display: "flex", alignItems: "center", overflow: "hidden" }}>
         {/* Background image */}
-        <div style={{ position: "absolute", inset: 0, backgroundImage: "url(https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=1600&q=80)", backgroundSize: "cover", backgroundPosition: "center top", filter: "brightness(0.25)" }} />
+        <div style={{ position: "absolute", inset: 0, backgroundImage: "url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Tunisia_-_Netherlands_%28Stade_de_Rad%C3%A8s%29.jpg/1280px-Tunisia_-_Netherlands_%28Stade_de_Rad%C3%A8s%29.jpg)", backgroundSize: "cover", backgroundPosition: "center top", filter: "brightness(0.3)" }} />
         <div style={{ position: "absolute", inset: 0, background: `linear-gradient(135deg, rgba(200,16,46,0.15) 0%, transparent 60%)` }} />
         <div style={{ position: "absolute", bottom: 0, left: 0, right: 0, height: "200px", background: `linear-gradient(to top, ${DARK}, transparent)` }} />
 
@@ -193,7 +193,7 @@ export default function HomePage() {
 
           {/* National team */}
           <div style={{ borderRadius: "14px", overflow: "hidden", position: "relative", aspectRatio: "16/9" }}>
-            <img src="https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&q=80" alt="Aigles de Carthage" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Tunisia_national_football_team_logo.png" alt="Aigles de Carthage" style={{ width: "100%", height: "100%", objectFit: "contain", padding: "20px", background: "#0a0a0a" }} />
             <div style={{ position: "absolute", inset: 0, background: "linear-gradient(135deg, rgba(200,16,46,0.7), rgba(0,0,0,0.5))" }} />
             <div style={{ position: "absolute", inset: 0, display: "flex", flexDirection: "column", justifyContent: "flex-end", padding: "20px" }}>
               <img src="https://flagcdn.com/w40/tn.png" alt="TN" style={{ height: "18px", marginBottom: "8px", borderRadius: "2px" }} />
