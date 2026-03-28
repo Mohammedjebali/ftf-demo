@@ -23,12 +23,12 @@ const CLUBS = [
   { name: "Union Sportive de Tataouine", short: "UST", city: "Tataouine", founded: 1996, stadium: "Stade Municipal de Tataouine", cap: 7000, league: "Ligue 1", region: "Sud", titles: 0, color: "#c8102e", logo: "/logo-ust.png" },
   { name: "Espérance Sportive Métlaoui", short: "ESM", city: "Métlaoui", founded: 1950, stadium: "Stade de Métlaoui", cap: 7000, league: "Ligue 1", region: "Sud-Ouest", titles: 0, color: "#e8c547", logo: "/logo-esm.png" },
   { name: "Club Sportif Hammam-Lif", short: "CSHL", city: "Hammam-Lif", founded: 1944, stadium: "Stade de Hammam-Lif", cap: 6500, league: "Ligue 1", region: "Grand Tunis", titles: 1, color: "#2d7a2d", logo: "/logo-cshl.png" },
-  { name: "Association Sportive de Djerba", short: "ASD", city: "Djerba", founded: 1938, stadium: "Stade Mohamed Salah", cap: 7500, league: "Ligue 1", region: "Sud", titles: 0, color: "#fb923c" },
+  { name: "Association Sportive de Djerba", short: "ASD", city: "Djerba", founded: 1938, stadium: "Stade Mohamed Salah", cap: 7500, league: "Ligue 1", region: "Sud", titles: 0, color: "#2d8a2d", logo: "/logo-asd.png" },
   { name: "Union Sportive de Ben Guerdane", short: "USBG", city: "Ben Guerdane", founded: 1955, stadium: "Stade de Ben Guerdane", cap: 5000, league: "Ligue 1", region: "Sud", titles: 0, color: "#e8c547", logo: "/logo-usbg.png" },
   { name: "Espérance Sportive de Zarzis", short: "ESZ", city: "Zarzis", founded: 1934, stadium: "Stade Municipal de Zarzis", cap: 6000, league: "Ligue 1", region: "Sud", titles: 0, color: "#e8c547", logo: "/logo-esz.png" },
   { name: "Jeunesse Sportive d'El Abiodh", short: "JSEA", city: "Sidi Bouzid", founded: 1960, stadium: "Stade de Sidi Bouzid", cap: 5500, league: "Ligue 1", region: "Centre-Ouest", titles: 0, color: "#c084fc" },
-  { name: "Stade Tunisien", short: "ST", city: "Tunis", founded: 1944, stadium: "Stade Zouiten", cap: 8000, league: "Ligue 2", region: "Grand Tunis", titles: 2, color: "#7c3aed" },
-  { name: "Sfax Railway Sport", short: "SRS", city: "Sfax", founded: 1945, stadium: "Stade Taïeb Mhiri", cap: 22000, league: "Ligue 2", region: "Sud-Est", titles: 0, color: "#dc2626" },
+  { name: "Stade Tunisien", short: "ST", city: "Tunis", founded: 1944, stadium: "Stade Zouiten", cap: 8000, league: "Ligue 2", region: "Grand Tunis", titles: 2, color: "#c8102e", logo: "/logo-st.png" },
+  { name: "Sfax Railway Sport", short: "SRS", city: "Sfax", founded: 1920, stadium: "Stade Taïeb Mhiri", cap: 22000, league: "Ligue 2", region: "Sud-Est", titles: 0, color: "#e8c547", logo: "/logo-srs.png" },
 ];
 
 const REGIONS = ["Toutes", "Grand Tunis", "Centre-Est", "Sud", "Nord", "Centre-Ouest", "Sud-Est", "Sud-Ouest"];
