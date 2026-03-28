@@ -71,7 +71,7 @@ export default function SelectionPage() {
           <h1 className="fade-up" style={{ fontSize: "clamp(2rem, 5vw, 3.5rem)", fontWeight: 900, color: TEXT, letterSpacing: "-0.03em" }}>
             Aigles de Carthage
           </h1>
-          <p style={{ color: MUTED, fontSize: "15px", marginTop: "8px" }}>Sélection Nationale Senior · FIFA Ranking: #26</p>
+          <p style={{ color: MUTED, fontSize: "15px", marginTop: "8px" }}>Sélection Nationale Senior · FIFA Ranking: #47 (Jan 2026)</p>
         </div>
       </div>
 
@@ -79,11 +79,12 @@ export default function SelectionPage() {
         {/* Stats row */}
         <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(150px, 1fr))", gap: "12px", marginBottom: "48px" }}>
           {[
-            { label: "Classement FIFA", value: "#26" },
+            { label: "Classement FIFA", value: "#47" },
             { label: "Participations CAN", value: "22" },
-            { label: "Coupe du Monde", value: "6×" },
-            { label: "Matchs joués", value: "387" },
-            { label: "Victoires", value: "183" },
+            { label: "Coupe du Monde", value: "6 participations" },
+            { label: "Meilleur FIFA", value: "#14 (2018)" },
+            { label: "Recordman caps", value: "R. Jaïdi (105)" },
+            { label: "Meilleur buteur", value: "I. Jemâa (36 buts)" },
             { label: "Buts marqués", value: "612" },
           ].map((s, i) => (
             <div key={i} className="card" style={{ padding: "20px", textAlign: "center" }}>
@@ -98,7 +99,7 @@ export default function SelectionPage() {
           <h2 style={{ color: TEXT, fontSize: "18px", fontWeight: 800, marginBottom: "20px" }}>Staff technique</h2>
           <div style={{ display: "flex", gap: "16px", flexWrap: "wrap" }}>
             {[
-              { role: "Sélectionneur National", name: "Jalel Kadri", since: "2022", nat: "🇹🇳" },
+              { role: "Sélectionneur National", name: "Sabri Lamouchi", since: "2024", nat: "🇹🇳" },
               { role: "Entraîneur adjoint", name: "Maher Kanzari", since: "2022", nat: "🇹🇳" },
               { role: "Entraîneur des gardiens", name: "Noureddine Diwan", since: "2022", nat: "🇹🇳" },
               { role: "Préparateur physique", name: "Khaled Ellafi", since: "2023", nat: "🇹🇳" },
