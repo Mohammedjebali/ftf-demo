@@ -24,7 +24,7 @@ export default function Footer() {
                 onMouseOver={e => (e.currentTarget.style.borderColor = "#c8102e")} onMouseOut={e => (e.currentTarget.style.borderColor = "#2a2a2a")}>
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="#f0ece4"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
               </a>
-              <a href="https://www.instagram.com/ftf.officielle" target="_blank" rel="noreferrer"
+              <a href="https://www.instagram.com/ftf.tn/" target="_blank" rel="noreferrer"
                 style={{ width: "34px", height: "34px", borderRadius: "8px", background: "#1a1a1a", border: "1px solid #2a2a2a", display: "flex", alignItems: "center", justifyContent: "center" }}
                 onMouseOver={e => (e.currentTarget.style.borderColor = "#c8102e")} onMouseOut={e => (e.currentTarget.style.borderColor = "#2a2a2a")}>
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#f0ece4" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="#f0ece4" stroke="none"/></svg>
