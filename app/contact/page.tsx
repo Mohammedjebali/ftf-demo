@@ -46,7 +46,7 @@ export default function ContactPage() {
       </div>
 
       <div style={{ maxWidth: "1280px", margin: "0 auto", padding: "40px 24px" }}>
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1.5fr", gap: "48px" }} className="mobile-col">
+        <div style={{ display: "grid", gridTemplateColumns: "1fr 1.5fr", gap: "48px" }} className="contact-grid">
           {/* Contact info */}
           <div>
             <h2 style={{ color: TEXT, fontSize: "18px", fontWeight: 800, marginBottom: "24px" }}>Informations de contact</h2>

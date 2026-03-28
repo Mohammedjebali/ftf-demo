@@ -247,7 +247,7 @@ export default function ClubDetailPage() {
             )}
             <div>
               <h1 style={{ fontSize: "clamp(1.5rem, 4vw, 2.5rem)", fontWeight: 900, color: TEXT, marginBottom: "6px", letterSpacing: "-0.02em" }}>{club.name}</h1>
-              <div style={{ display: "flex", gap: "12px", flexWrap: "wrap", fontSize: "13px", color: MUTED }}>
+              <div style={{ display: "flex", gap: "8px 16px", flexWrap: "wrap", fontSize: "12px", color: MUTED }}>
                 <span>{club.city}</span>
                 <span>{club.stadium}</span>
                 <span>Fondé en {club.founded}</span>
@@ -259,7 +259,7 @@ export default function ClubDetailPage() {
       </div>
 
       {/* Content */}
-      <div style={{ maxWidth: "1100px", margin: "0 auto", padding: "48px 24px", display: "grid", gridTemplateColumns: "1fr 320px", gap: "32px", alignItems: "start" }}>
+      <div style={{ maxWidth: "1100px", margin: "0 auto", padding: "48px 24px", display: "grid", gridTemplateColumns: "1fr 320px", gap: "32px", alignItems: "start" }} className="club-detail-grid">
 
         {/* Left */}
         <div>
@@ -290,7 +290,7 @@ export default function ClubDetailPage() {
           {club.players && club.players.length > 0 && (
             <div style={{ background: CARD, border: `1px solid ${BORDER}`, borderRadius: "16px", padding: "24px" }}>
               <h2 style={{ color: TEXT, fontSize: "16px", fontWeight: 700, marginBottom: "16px" }}>Joueurs notables</h2>
-              <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: "10px" }}>
+              <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: "10px" }} className="players-grid">
                 {club.players.map((p, i) => (
                   <div key={i} style={{ background: "#111", borderRadius: "10px", padding: "14px", border: `1px solid ${BORDER}`, textAlign: "center" }}>
                     <div style={{ width: "40px", height: "40px", borderRadius: "50%", background: `${club.color}22`, border: `1px solid ${club.color}33`, display: "flex", alignItems: "center", justifyContent: "center", margin: "0 auto 10px", fontSize: "18px" }}>

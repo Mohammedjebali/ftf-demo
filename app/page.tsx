@@ -105,13 +105,13 @@ export default function HomePage() {
       </div>
 
       {/* Main content grid */}
-      <div style={{ maxWidth: "1280px", margin: "0 auto", padding: "60px 24px", display: "grid", gridTemplateColumns: "1fr 340px", gap: "40px" }} className="mobile-col">
+      <div style={{ maxWidth: "1280px", margin: "0 auto", padding: "60px 24px", display: "grid", gridTemplateColumns: "1fr 340px", gap: "40px" }} className="home-main-grid">
 
         {/* Left: News */}
         <div>
-          <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: "24px" }}>
+          <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: "24px", flexWrap: "wrap", gap: "8px" }}>
             <h2 style={{ color: TEXT, fontSize: "18px", fontWeight: 800 }}>Actualités</h2>
-            <a href="#" style={{ color: MUTED, fontSize: "13px" }}>Tout voir →</a>
+            <a href="#" style={{ color: MUTED, fontSize: "13px", whiteSpace: "nowrap" }}>Tout voir →</a>
           </div>
 
           {/* Featured news */}

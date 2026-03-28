@@ -26,4 +26,34 @@ a { text-decoration: none; color: inherit; }
   .hide-mobile { display: none !important; }
   .mobile-col { flex-direction: column !important; }
   .mobile-grid-1 { grid-template-columns: 1fr !important; }
+
+  /* Homepage two-column → single column */
+  .home-main-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  /* Club detail sidebar → single column */
+  .club-detail-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  /* Contact two-column → single column */
+  .contact-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  /* Players grid → 2 cols max on mobile */
+  .players-grid {
+    grid-template-columns: 1fr 1fr !important;
+  }
+
+  /* Fix Actualités header overflow */
+  .actualites-header {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 4px !important;
+  }
+
+  /* Reduce padding on mobile */
+  .mobile-pad { padding: 24px 16px !important; }
 }
