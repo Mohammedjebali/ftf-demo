@@ -83,7 +83,7 @@ export default function AProposPage() {
         </div>
 
         {/* Mission / Vision */}
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "24px", marginBottom: "60px" }} className="mobile-col">
+        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "24px", marginBottom: "60px" }} className="mobile-grid-1">
           <div className="card" style={{ padding: "32px" }}>
             <div style={{ width: "40px", height: "3px", background: "#c8102e", borderRadius: "2px", marginBottom: "20px" }} />
             <h2 style={{ color: TEXT, fontWeight: 800, fontSize: "18px", marginBottom: "12px" }}>Notre Mission</h2>

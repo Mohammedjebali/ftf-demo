@@ -114,31 +114,22 @@ export default function ArbitragePage() {
 
         {/* Designations table */}
         <h2 style={{ color: TEXT, fontSize: "18px", fontWeight: 800, marginBottom: "20px" }}>Désignations récentes</h2>
-        <div className="card" style={{ overflow: "auto", marginBottom: "48px" }}>
-          <table style={{ width: "100%", borderCollapse: "collapse", fontSize: "13px" }}>
-            <thead>
-              <tr style={{ borderBottom: `1px solid ${BORDER}` }}>
-                {["Match", "Compétition", "Date", "Arbitre", "Catégorie"].map((h, i) => (
-                  <th key={i} style={{ padding: "14px 16px", textAlign: "left", color: MUTED, fontWeight: 600, fontSize: "11px", textTransform: "uppercase", letterSpacing: "0.06em", whiteSpace: "nowrap" }}>{h}</th>
-                ))}
-              </tr>
-            </thead>
-            <tbody>
-              {DESIGNATIONS.map((d, i) => (
-                <tr key={i} style={{ borderBottom: i < DESIGNATIONS.length - 1 ? `1px solid #0f0f0f` : "none" }}>
-                  <td style={{ padding: "12px 16px", color: TEXT, fontWeight: 500 }}>{d.match}</td>
-                  <td style={{ padding: "12px 16px", color: MUTED }}>{d.comp}</td>
-                  <td style={{ padding: "12px 16px", color: MUTED, whiteSpace: "nowrap" }}>{d.date}</td>
-                  <td style={{ padding: "12px 16px", color: TEXT }}>{d.arbitre}</td>
-                  <td style={{ padding: "12px 16px" }}>
-                    <span style={{ ...catColor(d.cat), fontSize: "10px", fontWeight: 700, padding: "3px 8px", borderRadius: "4px", textTransform: "uppercase" }}>
-                      {d.cat}
-                    </span>
-                  </td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
+        <div style={{ display: "flex", flexDirection: "column", gap: "8px", marginBottom: "48px" }}>
+          {DESIGNATIONS.map((d, i) => (
+            <div key={i} className="card" style={{ padding: "14px 16px", display: "grid", gridTemplateColumns: "1fr auto", gap: "8px", alignItems: "center" }}>
+              <div>
+                <div style={{ color: TEXT, fontWeight: 600, fontSize: "13px", marginBottom: "4px" }}>{d.match}</div>
+                <div style={{ display: "flex", gap: "12px", flexWrap: "wrap", fontSize: "11px", color: MUTED }}>
+                  <span>{d.comp}</span>
+                  <span>{d.date}</span>
+                  <span style={{ color: TEXT }}>{d.arbitre}</span>
+                </div>
+              </div>
+              <span style={{ ...catColor(d.cat), fontSize: "10px", fontWeight: 700, padding: "3px 8px", borderRadius: "4px", textTransform: "uppercase", whiteSpace: "nowrap" }}>
+                {d.cat}
+              </span>
+            </div>
+          ))}
         </div>
 
         {/* Arbitres list */}
@@ -147,7 +138,7 @@ export default function ArbitragePage() {
           {ARBITRES.map((a, i) => (
             <div key={i} className="card" style={{ padding: "14px 16px", display: "flex", alignItems: "center", gap: "12px" }}>
               <div style={{ width: "40px", height: "40px", borderRadius: "50%", background: catColor(a.cat).bg, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                <span style={{ fontSize: "16px" }}>{(a as any).female ? "👩" : "👨"}</span>
+                <span style={{ color: "#c8102e", fontWeight: 900, fontSize: "14px" }}>{a.name.charAt(0)}</span>
               </div>
               <div style={{ flex: 1, minWidth: 0 }}>
                 <div style={{ color: TEXT, fontWeight: 600, fontSize: "13px", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{a.name}</div>
