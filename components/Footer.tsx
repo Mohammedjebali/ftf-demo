@@ -54,8 +54,8 @@ export default function Footer() {
             <h4 style={{ color: TEXT, fontSize: "13px", fontWeight: 700, marginBottom: "16px", textTransform: "uppercase", letterSpacing: "0.08em" }}>Contact</h4>
             <p style={{ color: MUTED, fontSize: "13px", lineHeight: 1.7 }}>
               Avenue Mohamed Ali Akid<br />Cité Olympique, Tunis 1003<br /><br />
-              <a href="tel:+21671802321" style={{ color: MUTED }}>+216 71 802 321</a><br />
-              <a href="mailto:contact@ftf.org.tn" style={{ color: MUTED }}>contact@ftf.org.tn</a>
+              <a href="tel:+21671783843" style={{ color: MUTED }}>+216 71 783 843</a><br />
+              <a href="https://www.ftf.org.tn" target="_blank" rel="noreferrer" style={{ color: MUTED }}>ftf.org.tn</a>
             </p>
           </div>
         </div>
