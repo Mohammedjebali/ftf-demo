@@ -81,11 +81,11 @@ export default function SelectionPage() {
           {[
             { label: "Classement FIFA", value: "#47" },
             { label: "Participations CAN", value: "22" },
-            { label: "Coupe du Monde", value: "6 participations" },
+            { label: "Coupe du Monde", value: "6× qualifié" },
             { label: "Meilleur FIFA", value: "#14 (2018)" },
             { label: "Recordman caps", value: "R. Jaïdi (105)" },
-            { label: "Meilleur buteur", value: "I. Jemâa (36 buts)" },
-            { label: "Buts marqués", value: "612" },
+            { label: "Meilleur buteur", value: "I. Jemâa (36)" },
+            { label: "Titre CAN", value: "2004" },
           ].map((s, i) => (
             <div key={i} className="card" style={{ padding: "20px", textAlign: "center" }}>
               <div style={{ color: ACCENT, fontWeight: 900, fontSize: "24px", marginBottom: "6px" }}>{s.value}</div>

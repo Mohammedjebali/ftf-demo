@@ -58,7 +58,7 @@ export default function HomePage() {
         <div style={{ position: "relative", maxWidth: "1280px", margin: "0 auto", padding: "80px 24px", width: "100%" }}>
           <div className="fade-up" style={{ display: "inline-flex", alignItems: "center", gap: "8px", background: "rgba(200,16,46,0.15)", border: "1px solid rgba(200,16,46,0.3)", borderRadius: "100px", padding: "5px 14px", marginBottom: "24px" }}>
             <img src="https://flagcdn.com/w20/tn.png" alt="TN" style={{ height: "12px", borderRadius: "2px" }} />
-            <span style={{ fontSize: "11px", color: RED, fontWeight: 700, letterSpacing: "0.08em", textTransform: "uppercase" }}>Saison 2025–2026</span>
+            <span style={{ fontSize: "11px", color: RED, fontWeight: 700, letterSpacing: "0.08em", textTransform: "uppercase" }}>Saison 2024–2025</span>
           </div>
           <h1 className="fade-up-2" style={{ fontSize: "clamp(2rem, 6vw, 4rem)", fontWeight: 900, color: TEXT, lineHeight: 1.05, letterSpacing: "-0.03em", marginBottom: "20px", maxWidth: "700px" }}>
             Le football tunisien<br />
@@ -193,7 +193,7 @@ export default function HomePage() {
 
           {/* National team */}
           <div style={{ borderRadius: "14px", overflow: "hidden", position: "relative", aspectRatio: "16/9" }}>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Tunisia_national_football_team_logo.png" alt="Aigles de Carthage" style={{ width: "100%", height: "100%", objectFit: "contain", padding: "20px", background: "#0a0a0a" }} />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Tunisia_-_Netherlands_%28Stade_de_Rad%C3%A8s%29.jpg/640px-Tunisia_-_Netherlands_%28Stade_de_Rad%C3%A8s%29.jpg" alt="Aigles de Carthage" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
             <div style={{ position: "absolute", inset: 0, background: "linear-gradient(135deg, rgba(200,16,46,0.7), rgba(0,0,0,0.5))" }} />
             <div style={{ position: "absolute", inset: 0, display: "flex", flexDirection: "column", justifyContent: "flex-end", padding: "20px" }}>
               <img src="https://flagcdn.com/w40/tn.png" alt="TN" style={{ height: "18px", marginBottom: "8px", borderRadius: "2px" }} />
