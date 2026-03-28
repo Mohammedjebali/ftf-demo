@@ -1,4 +1,6 @@
 "use client";
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 
 const RED = "#c8102e";
 const DARK = "#050505";
@@ -38,56 +40,13 @@ const UPCOMING = [
   { date: "30 Mar", time: "16:00", home: "Club Africain", away: "JS Kairouan", comp: "Ligue 1" },
 ];
 
-const TICKER_ITEMS = [
-  "Espérance ST 2–1 Club Africain · FT",
-  "Club Sfaxien 0–0 Étoile Sahel · FT",
-  "US Monastir 2–2 AS Gabès · FT",
-  "CS Hammam-Lif 1–3 AS Marsa · FT",
-  "Prochains matchs: 29 Mar — CA Bizertin vs US Tataouine 17:00",
-];
+
 
 export default function HomePage() {
   return (
     <div style={{ background: DARK, minHeight: "100vh" }}>
 
-      {/* Top ticker */}
-      <div style={{ background: RED, padding: "7px 0", overflow: "hidden" }}>
-        <div className="ticker">
-          {[...TICKER_ITEMS, ...TICKER_ITEMS].map((item, i) => (
-            <span key={i} style={{ whiteSpace: "nowrap", fontSize: "12px", fontWeight: 600, marginRight: "60px", color: "#fff", letterSpacing: "0.03em" }}>
-              ⚽ {item}
-            </span>
-          ))}
-        </div>
-      </div>
-
-      {/* Navbar */}
-      <nav style={{ background: "rgba(5,5,5,0.95)", backdropFilter: "blur(20px)", borderBottom: `1px solid ${BORDER}`, position: "sticky", top: 0, zIndex: 100 }}>
-        <div style={{ maxWidth: "1280px", margin: "0 auto", padding: "0 24px", height: "64px", display: "flex", alignItems: "center", justifyContent: "space-between" }}>
-          <a href="/" style={{ display: "flex", alignItems: "center", gap: "12px" }}>
-            <img src="/ftf-logo.jpg" alt="FTF Logo" style={{ width: "44px", height: "44px", borderRadius: "50%", objectFit: "cover", border: "1.5px solid rgba(200,16,46,0.4)" }} />
-            <div className="hide-mobile">
-              <div style={{ fontSize: "14px", fontWeight: 800, color: TEXT, letterSpacing: "-0.01em" }}>Fédération Tunisienne</div>
-              <div style={{ fontSize: "10px", color: MUTED, letterSpacing: "0.1em", textTransform: "uppercase" }}>de Football</div>
-            </div>
-          </a>
-          <div className="hide-mobile" style={{ display: "flex", alignItems: "center", gap: "4px" }}>
-            {["Ligue 1", "Sélection", "Compétitions", "Clubs", "Actualités"].map(item => (
-              <a key={item} href="#" style={{ color: "#7a7a7a", fontSize: "13px", fontWeight: 500, padding: "8px 14px", borderRadius: "8px", transition: "color 0.15s" }}
-                onMouseOver={e => (e.currentTarget.style.color = TEXT)} onMouseOut={e => (e.currentTarget.style.color = "#7a7a7a")}>
-                {item}
-              </a>
-            ))}
-          </div>
-          <div style={{ display: "flex", gap: "8px", alignItems: "center" }}>
-            <span style={{ display: "flex", alignItems: "center", gap: "5px", fontSize: "11px", color: RED, fontWeight: 700, background: "rgba(200,16,46,0.1)", padding: "5px 10px", borderRadius: "6px", border: `1px solid rgba(200,16,46,0.2)` }}>
-              <span className="live-dot" style={{ width: "6px", height: "6px", borderRadius: "50%", backgroundColor: RED, display: "inline-block" }} />
-              EN DIRECT
-            </span>
-            <a href="#" className="btn btn-primary hide-mobile">Billetterie</a>
-          </div>
-        </div>
-      </nav>
+      <Navbar />
 
       {/* Hero */}
       <section style={{ position: "relative", minHeight: "520px", display: "flex", alignItems: "center", overflow: "hidden" }}>
@@ -120,7 +79,7 @@ export default function HomePage() {
         <div style={{ maxWidth: "1280px", margin: "0 auto" }}>
           <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: "16px" }}>
             <h2 style={{ color: TEXT, fontSize: "14px", fontWeight: 700, letterSpacing: "0.04em", textTransform: "uppercase" }}>Derniers Résultats</h2>
-            <a href="#" style={{ color: MUTED, fontSize: "12px" }}>Tous les résultats →</a>
+            <a href="/ligue1" style={{ color: MUTED, fontSize: "12px" }}>Tous les résultats →</a>
           </div>
           <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(260px, 1fr))", gap: "10px" }}>
             {RESULTS.map((r, i) => (
@@ -211,7 +170,7 @@ export default function HomePage() {
                 <span style={{ fontSize: "13px", fontWeight: 800, color: TEXT, textAlign: "center" }}>{s.pts}</span>
               </div>
             ))}
-            <a href="#" style={{ display: "block", textAlign: "center", marginTop: "14px", fontSize: "12px", color: RED, fontWeight: 600 }}>Classement complet →</a>
+            <a href="/ligue1" style={{ display: "block", textAlign: "center", marginTop: "14px", fontSize: "12px", color: RED, fontWeight: 600 }}>Classement complet →</a>
           </div>
 
           {/* Upcoming */}
@@ -240,26 +199,13 @@ export default function HomePage() {
               <img src="https://flagcdn.com/w40/tn.png" alt="TN" style={{ height: "18px", marginBottom: "8px", borderRadius: "2px" }} />
               <p style={{ color: "#fff", fontWeight: 800, fontSize: "16px", lineHeight: 1.2 }}>Aigles de Carthage</p>
               <p style={{ color: "rgba(255,255,255,0.6)", fontSize: "12px", marginTop: "4px" }}>Sélection Nationale Senior</p>
-              <a href="#" className="btn btn-primary" style={{ alignSelf: "flex-start", marginTop: "12px", padding: "8px 16px", fontSize: "12px" }}>Découvrir →</a>
+              <a href="/selection" className="btn btn-primary" style={{ alignSelf: "flex-start", marginTop: "12px", padding: "8px 16px", fontSize: "12px" }}>Découvrir →</a>
             </div>
           </div>
         </div>
       </div>
 
-      {/* Footer */}
-      <footer style={{ borderTop: `1px solid ${BORDER}`, padding: "40px 24px", marginTop: "40px" }}>
-        <div style={{ maxWidth: "1280px", margin: "0 auto", display: "flex", alignItems: "center", justifyContent: "space-between", flexWrap: "wrap", gap: "16px" }}>
-          <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
-            <img src="/ftf-logo.jpg" alt="FTF" style={{ width: "32px", height: "32px", borderRadius: "50%", objectFit: "cover" }} />
-            <span style={{ color: MUTED, fontSize: "12px" }}>© 2026 Fédération Tunisienne de Football</span>
-          </div>
-          <div style={{ display: "flex", gap: "24px" }}>
-            {["À propos", "Contact", "Mentions légales"].map(l => (
-              <a key={l} href="#" style={{ color: MUTED, fontSize: "12px" }} onMouseOver={e => (e.currentTarget.style.color = TEXT)} onMouseOut={e => (e.currentTarget.style.color = MUTED)}>{l}</a>
-            ))}
-          </div>
-        </div>
-      </footer>
+      <Footer />
 
     </div>
   );
