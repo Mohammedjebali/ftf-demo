@@ -124,9 +124,10 @@ export default function Ligue1Page() {
                           <span style={{ color: TEXT, fontWeight: 500 }}>{s.team}</span>
                         </div>
                       </td>
-                      {[s.played, s.win, s.draw, s.lose, s.gf, s.ga, s.gd > 0 ? `+${s.gd}` : s.gd].map((v, j) => (
-                        <td key={j} style={{ padding: "12px 10px", color: j === 6 ? (typeof v === "number" && v > 0 ? "#4ade80" : v < 0 ? RED : MUTED) : MUTED, textAlign: "center" }}>{v}</td>
+                      {[s.played, s.win, s.draw, s.lose, s.gf, s.ga].map((v, j) => (
+                        <td key={j} style={{ padding: "12px 10px", color: MUTED, textAlign: "center" }}>{v}</td>
                       ))}
+                      <td style={{ padding: "12px 10px", color: s.gd > 0 ? "#4ade80" : s.gd < 0 ? RED : MUTED, textAlign: "center" }}>{s.gd > 0 ? `+${s.gd}` : s.gd}</td>
                       <td style={{ padding: "12px 10px", textAlign: "center", fontWeight: 800, color: TEXT, fontSize: "15px" }}>{s.points}</td>
                       <td style={{ padding: "12px 10px" }}>
                         <div style={{ display: "flex", gap: "3px", justifyContent: "center" }}>
