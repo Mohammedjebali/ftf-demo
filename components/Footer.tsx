@@ -52,10 +52,12 @@ export default function Footer() {
           </div>
           <div>
             <h4 style={{ color: TEXT, fontSize: "13px", fontWeight: 700, marginBottom: "16px", textTransform: "uppercase", letterSpacing: "0.08em" }}>Contact</h4>
-            <p style={{ color: MUTED, fontSize: "13px", lineHeight: 1.7 }}>
-              Stade Annexe d'El Menzah<br />Cité Olympique, 1003 El Menzah<br /><br />
-              <a href="tel:+21671793760" style={{ color: MUTED }}>+216 71 793 760</a><br />
-              <a href="mailto:ftf@ftf.org.tn" style={{ color: MUTED }}>ftf@ftf.org.tn</a>
+            <p style={{ color: MUTED, fontSize: "13px", lineHeight: 1.9 }}>
+              Stade Annexe d'El Menzah<br />
+              Cité Olympique, 1003 El Menzah<br /><br />
+              Tél : <a href="tel:+21671793760" style={{ color: MUTED }}>+216 71 793 760</a><br />
+              Fax : +216 71 783 843<br />
+              <a href="mailto:Directeur@ftf.org.tn" style={{ color: MUTED }}>Directeur@ftf.org.tn</a>
             </p>
           </div>
         </div>

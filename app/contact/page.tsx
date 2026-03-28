@@ -53,50 +53,14 @@ export default function ContactPage() {
 
             <div style={{ display: "flex", flexDirection: "column", gap: "16px", marginBottom: "40px" }}>
               {[
-                { icon: "▸", label: "Adresse", value: "Avenue Mohamed Ali Akid\nCité Olympique, Tunis 1003" },
-                { icon: "📞", label: "Téléphone", value: "+216 71 793 760\n+216 71 793 761\n+216 71 793 767" },
-                { icon: "📠", label: "Fax", value: "+216 71 802 323" },
-                { icon: "✉️", label: "Email", value: "ftf@ftf.org.tn" },
-                { icon: "🌐", label: "Site web", value: "www.ftf.org.tn" },
+                { label: "Adresse", value: "Stade Annexe d'El Menzah, Cité Olympique, 1003 El Menzah" },
+                { label: "Tél", value: "+216 71 793 760 / +216 71 793 761 / +216 71 793 767" },
+                { label: "Fax", value: "+216 71 783 843" },
+                { label: "E-mail", value: "Directeur@ftf.org.tn" },
               ].map((c, i) => (
-                <div key={i} className="card" style={{ padding: "16px 20px", display: "flex", gap: "14px", alignItems: "flex-start" }}>
-                  <span style={{ fontSize: "22px", flexShrink: 0 }}>{c.icon}</span>
-                  <div>
-                    <div style={{ color: MUTED, fontSize: "11px", textTransform: "uppercase", letterSpacing: "0.06em", marginBottom: "4px" }}>{c.label}</div>
-                    <div style={{ color: TEXT, fontSize: "13px", lineHeight: 1.6, whiteSpace: "pre-line" }}>{c.value}</div>
-                  </div>
-                </div>
-              ))}
-            </div>
-
-            {/* Hours */}
-            <h3 style={{ color: TEXT, fontSize: "15px", fontWeight: 700, marginBottom: "16px" }}>Horaires d'ouverture</h3>
-            <div className="card" style={{ padding: "16px 20px" }}>
-              {[
-                { day: "Lundi – Jeudi", hours: "08:30 – 17:00" },
-                { day: "Vendredi", hours: "08:30 – 13:30" },
-                { day: "Samedi – Dimanche", hours: "Fermé" },
-              ].map((h, i) => (
-                <div key={i} style={{ display: "flex", justifyContent: "space-between", padding: "8px 0", borderBottom: i < 2 ? `1px solid #111` : "none" }}>
-                  <span style={{ color: MUTED, fontSize: "13px" }}>{h.day}</span>
-                  <span style={{ color: h.hours === "Fermé" ? "#f87171" : "#4ade80", fontWeight: 600, fontSize: "13px" }}>{h.hours}</span>
-                </div>
-              ))}
-            </div>
-
-            {/* Departments */}
-            <h3 style={{ color: TEXT, fontSize: "15px", fontWeight: 700, marginBottom: "16px", marginTop: "32px" }}>Contacts par département</h3>
-            <div style={{ display: "flex", flexDirection: "column", gap: "8px" }}>
-              {[
-                { dept: "Presse & Communication", email: "presse@ftf.org.tn" },
-                { dept: "Direction Administrative", email: "daf@ftf.org.tn" },
-                { dept: "Commission d'Arbitrage", email: "arbitrage@ftf.org.tn" },
-                { dept: "Compétitions", email: "competitions@ftf.org.tn" },
-                { dept: "Sélections Nationales", email: "selections@ftf.org.tn" },
-              ].map((d, i) => (
-                <div key={i} style={{ display: "flex", justifyContent: "space-between", alignItems: "center", padding: "10px 14px", background: "#0a0a0a", borderRadius: "8px", border: `1px solid ${BORDER}` }}>
-                  <span style={{ color: TEXT, fontSize: "12px" }}>{d.dept}</span>
-                  <a href={`mailto:${d.email}`} style={{ color: RED, fontSize: "12px", fontWeight: 600 }}>{d.email}</a>
+                <div key={i} className="card" style={{ padding: "16px 20px" }}>
+                  <div style={{ color: MUTED, fontSize: "11px", textTransform: "uppercase", letterSpacing: "0.06em", marginBottom: "6px" }}>{c.label}</div>
+                  <div style={{ color: TEXT, fontSize: "13px", lineHeight: 1.6 }}>{c.value}</div>
                 </div>
               ))}
             </div>
