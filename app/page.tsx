@@ -65,8 +65,8 @@ export default function HomePage() {
       <nav style={{ background: "rgba(5,5,5,0.95)", backdropFilter: "blur(20px)", borderBottom: `1px solid ${BORDER}`, position: "sticky", top: 0, zIndex: 100 }}>
         <div style={{ maxWidth: "1280px", margin: "0 auto", padding: "0 24px", height: "64px", display: "flex", alignItems: "center", justifyContent: "space-between" }}>
           <a href="/" style={{ display: "flex", alignItems: "center", gap: "12px" }}>
-            <div style={{ width: "40px", height: "40px", borderRadius: "50%", background: `linear-gradient(135deg, ${RED}, #8b0020)`, display: "flex", alignItems: "center", justifyContent: "center", fontWeight: 900, fontSize: "14px", color: "#fff" }}>FTF</div>
-            <div>
+            <img src="/ftf-logo.jpg" alt="FTF Logo" style={{ width: "44px", height: "44px", borderRadius: "50%", objectFit: "cover", border: "1.5px solid rgba(200,16,46,0.4)" }} />
+            <div className="hide-mobile">
               <div style={{ fontSize: "14px", fontWeight: 800, color: TEXT, letterSpacing: "-0.01em" }}>Fédération Tunisienne</div>
               <div style={{ fontSize: "10px", color: MUTED, letterSpacing: "0.1em", textTransform: "uppercase" }}>de Football</div>
             </div>
@@ -250,7 +250,7 @@ export default function HomePage() {
       <footer style={{ borderTop: `1px solid ${BORDER}`, padding: "40px 24px", marginTop: "40px" }}>
         <div style={{ maxWidth: "1280px", margin: "0 auto", display: "flex", alignItems: "center", justifyContent: "space-between", flexWrap: "wrap", gap: "16px" }}>
           <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
-            <div style={{ width: "32px", height: "32px", borderRadius: "50%", background: `linear-gradient(135deg, ${RED}, #8b0020)`, display: "flex", alignItems: "center", justifyContent: "center", fontWeight: 900, fontSize: "11px", color: "#fff" }}>FTF</div>
+            <img src="/ftf-logo.jpg" alt="FTF" style={{ width: "32px", height: "32px", borderRadius: "50%", objectFit: "cover" }} />
             <span style={{ color: MUTED, fontSize: "12px" }}>© 2026 Fédération Tunisienne de Football</span>
           </div>
           <div style={{ display: "flex", gap: "24px" }}>
