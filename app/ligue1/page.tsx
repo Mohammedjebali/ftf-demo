@@ -64,7 +64,7 @@ export default function Ligue1Page() {
       <div style={{ background: "linear-gradient(135deg, #1a0005, #050505)", borderBottom: `1px solid ${BORDER}`, padding: "40px 24px 32px" }}>
         <div style={{ maxWidth: "1100px", margin: "0 auto" }}>
           <div style={{ display: "flex", alignItems: "center", gap: "14px", marginBottom: "8px" }}>
-            <div style={{ width: "40px", height: "40px", borderRadius: "50%", background: `${RED}22`, border: `1px solid ${RED}44`, display: "flex", alignItems: "center", justifyContent: "center", fontSize: "20px" }}>🏆</div>
+            <div style={{ width: "40px", height: "40px", borderRadius: "50%", background: `${RED}22`, border: `1px solid ${RED}44`, display: "flex", alignItems: "center", justifyContent: "center", fontWeight: 900, fontSize: "14px", color: RED }}>L1</div>
             <div>
               <h1 style={{ fontSize: "clamp(1.4rem,3vw,2rem)", fontWeight: 900, color: TEXT, letterSpacing: "-0.02em" }}>Ligue 1 Professionnelle</h1>
               <p style={{ color: MUTED, fontSize: "13px" }}>Saison 2024/2025 · Tunisie · <span style={{ color: "#4ade80" }}>● Données en direct (ftf.org.tn)</span></p>
@@ -116,7 +116,7 @@ export default function Ligue1Page() {
                       onMouseOver={e => (e.currentTarget.style.background = "#111")}
                       onMouseOut={e => (e.currentTarget.style.background = "transparent")}>
                       <td style={{ padding: "12px 10px", color: s.rank <= 3 ? ACCENT : s.rank >= 15 ? RED : MUTED, fontWeight: 700, width: "32px" }}>
-                        {s.rank <= 1 ? "🥇" : s.rank === 2 ? "🥈" : s.rank === 3 ? "🥉" : s.rank}
+                        {s.rank}
                       </td>
                       <td style={{ padding: "12px 10px" }}>
                         <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>

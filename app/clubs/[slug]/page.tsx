@@ -248,10 +248,10 @@ export default function ClubDetailPage() {
             <div>
               <h1 style={{ fontSize: "clamp(1.5rem, 4vw, 2.5rem)", fontWeight: 900, color: TEXT, marginBottom: "6px", letterSpacing: "-0.02em" }}>{club.name}</h1>
               <div style={{ display: "flex", gap: "12px", flexWrap: "wrap", fontSize: "13px", color: MUTED }}>
-                <span>📍 {club.city}</span>
-                <span>🏟 {club.stadium}</span>
-                <span>🗓 Fondé en {club.founded}</span>
-                <span style={{ color: club.color, fontWeight: 700 }}>🏆 {club.titles} titres</span>
+                <span>{club.city}</span>
+                <span>{club.stadium}</span>
+                <span>Fondé en {club.founded}</span>
+                <span style={{ color: club.color, fontWeight: 700 }}>{club.titles} titres</span>
               </div>
             </div>
           </div>
@@ -278,7 +278,7 @@ export default function ClubDetailPage() {
               <div style={{ display: "flex", flexDirection: "column", gap: "10px" }}>
                 {club.palmares.map((p, i) => (
                   <div key={i} style={{ display: "flex", alignItems: "center", gap: "12px", padding: "10px 14px", background: "#111", borderRadius: "10px", border: `1px solid ${BORDER}` }}>
-                    <span style={{ fontSize: "18px" }}>🏆</span>
+                    <span style={{ fontSize: "14px", color: "#e8c547", fontWeight: 700 }}>◆</span>
                     <span style={{ color: "#c0b8ac", fontSize: "14px" }}>{p}</span>
                   </div>
                 ))}

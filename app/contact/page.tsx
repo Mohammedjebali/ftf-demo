@@ -53,7 +53,7 @@ export default function ContactPage() {
 
             <div style={{ display: "flex", flexDirection: "column", gap: "16px", marginBottom: "40px" }}>
               {[
-                { icon: "📍", label: "Adresse", value: "Avenue Mohamed Ali Akid\nCité Olympique, Tunis 1003" },
+                { icon: "▸", label: "Adresse", value: "Avenue Mohamed Ali Akid\nCité Olympique, Tunis 1003" },
                 { icon: "📞", label: "Téléphone", value: "+216 71 802 321\n+216 71 802 322" },
                 { icon: "📠", label: "Fax", value: "+216 71 802 323" },
                 { icon: "✉️", label: "Email général", value: "contact@ftf.org.tn" },
@@ -169,7 +169,7 @@ export default function ContactPage() {
                 </div>
                 <div style={{ position: "relative", textAlign: "center", zIndex: 1 }}>
                   <div style={{ width: "48px", height: "48px", borderRadius: "50%", background: RED, display: "flex", alignItems: "center", justifyContent: "center", margin: "0 auto 12px", boxShadow: `0 0 0 8px rgba(200,16,46,0.2)` }}>
-                    <span style={{ color: "#fff", fontSize: "20px" }}>📍</span>
+                    <span style={{ color: "#fff", fontSize: "20px" }}>▸</span>
                   </div>
                   <div style={{ color: TEXT, fontWeight: 700, fontSize: "14px" }}>FTF — Siège Social</div>
                   <div style={{ color: MUTED, fontSize: "12px" }}>Avenue Mohamed Ali Akid, Cité Olympique</div>

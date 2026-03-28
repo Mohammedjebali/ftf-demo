@@ -22,23 +22,23 @@ const TIMELINE = [
 ];
 
 const BOARD = [
-  { role: "Président", name: "Moez Nasri", since: "2025", emoji: "🏛️" },
-  { role: "Vice-Président", name: "Hussein Jenayah", since: "2025", emoji: "⚽" },
-  { role: "Sélectionneur National", name: "Sabri Lamouchi", since: "2024", emoji: "🎽" },
-  { role: "Secrétaire Général", name: "—", since: "2025", emoji: "📋" },
-  { role: "Direction Technique", name: "DTN", since: "2025", emoji: "💼" },
-  { role: "Commission Arbitrage", name: "—", since: "2025", emoji: "🟨" },
+  { role: "Président", name: "Moez Nasri", since: "2025", emoji: "◆" },
+  { role: "Vice-Président", name: "Hussein Jenayah", since: "2025", emoji: "○" },
+  { role: "Sélectionneur National", name: "Sabri Lamouchi", since: "2024", emoji: "▸" },
+  { role: "Secrétaire Général", name: "—", since: "2025", emoji: "≡" },
+  { role: "Direction Technique", name: "DTN", since: "2025", emoji: "◈" },
+  { role: "Commission Arbitrage", name: "—", since: "2025", emoji: "▪" },
 ];
 
 const DEPTS = [
-  { name: "Direction Technique Nationale", icon: "⚽", desc: "Formation des entraîneurs, sélections nationales, développement des jeunes" },
-  { name: "Commission d'Arbitrage", icon: "🟨", desc: "Formation, désignation et gestion du corps arbitral" },
-  { name: "Commission des Compétitions", icon: "🏆", desc: "Organisation et gestion de toutes les compétitions nationales" },
-  { name: "Commission Juridique", icon: "⚖️", desc: "Gestion disciplinaire, recours et litiges" },
-  { name: "Direction Administrative & Financière", icon: "💼", desc: "Gestion administrative, financière et des ressources humaines" },
-  { name: "Commission des Licences", icon: "🪪", desc: "Délivrance et gestion des licences joueurs, entraîneurs et arbitres" },
-  { name: "Commission Médicale", icon: "🏥", desc: "Suivi médical des joueurs, prévention antidopage" },
-  { name: "Commission Marketing & Communication", icon: "📡", desc: "Relations presse, sponsoring, image de marque de la FTF" },
+  { name: "Direction Technique Nationale", icon: "○", desc: "Formation des entraîneurs, sélections nationales, développement des jeunes" },
+  { name: "Commission d'Arbitrage", icon: "▪", desc: "Formation, désignation et gestion du corps arbitral" },
+  { name: "Commission des Compétitions", icon: "◆", desc: "Organisation et gestion de toutes les compétitions nationales" },
+  { name: "Commission Juridique", icon: "⚖", desc: "Gestion disciplinaire, recours et litiges" },
+  { name: "Direction Administrative & Financière", icon: "◈", desc: "Gestion administrative, financière et des ressources humaines" },
+  { name: "Commission des Licences", icon: "▣", desc: "Délivrance et gestion des licences joueurs, entraîneurs et arbitres" },
+  { name: "Commission Médicale", icon: "✚", desc: "Suivi médical des joueurs, prévention antidopage" },
+  { name: "Commission Marketing & Communication", icon: "◉", desc: "Relations presse, sponsoring, image de marque de la FTF" },
 ];
 
 export default function AProposPage() {
@@ -85,14 +85,14 @@ export default function AProposPage() {
         {/* Mission / Vision */}
         <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "24px", marginBottom: "60px" }} className="mobile-col">
           <div className="card" style={{ padding: "32px" }}>
-            <div style={{ fontSize: "32px", marginBottom: "16px" }}>🎯</div>
+            <div style={{ width: "40px", height: "3px", background: "#c8102e", borderRadius: "2px", marginBottom: "20px" }} />
             <h2 style={{ color: TEXT, fontWeight: 800, fontSize: "18px", marginBottom: "12px" }}>Notre Mission</h2>
             <p style={{ color: MUTED, fontSize: "14px", lineHeight: 1.8 }}>
               Développer, promouvoir et gérer le football tunisien à tous les niveaux — amateur, professionnel, féminin et jeunes — dans le respect des règles de la FIFA et de la CAF. Nous nous engageons à renforcer les infrastructures sportives, former les acteurs du football et représenter dignement la Tunisie sur la scène internationale.
             </p>
           </div>
           <div className="card" style={{ padding: "32px" }}>
-            <div style={{ fontSize: "32px", marginBottom: "16px" }}>🌟</div>
+            <div style={{ width: "40px", height: "3px", background: "#e8c547", borderRadius: "2px", marginBottom: "20px" }} />
             <h2 style={{ color: TEXT, fontWeight: 800, fontSize: "18px", marginBottom: "12px" }}>Notre Vision</h2>
             <p style={{ color: MUTED, fontSize: "14px", lineHeight: 1.8 }}>
               Faire du football tunisien un modèle en Afrique du Nord et sur le continent africain, en investissant dans la formation des jeunes talents, la modernisation des compétitions et le développement du football féminin. Qualifier la Tunisie régulièrement pour les plus grandes compétitions mondiales.

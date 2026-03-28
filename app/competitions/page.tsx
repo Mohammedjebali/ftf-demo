@@ -17,7 +17,7 @@ const COMPETITIONS = [
     champion: "Espérance ST",
     status: "En cours",
     matchday: "J26/30",
-    icon: "🏆",
+    icon: "I",
     color: RED,
     desc: "Le championnat d'élite du football tunisien",
     href: "/ligue1",
@@ -29,7 +29,7 @@ const COMPETITIONS = [
     champion: "JS Kélibia",
     status: "En cours",
     matchday: "J22/30",
-    icon: "🥈",
+    icon: "II",
     color: "#60a5fa",
     desc: "Deuxième division du football professionnel",
     href: "#",
@@ -41,7 +41,7 @@ const COMPETITIONS = [
     champion: "ES Métlaoui B",
     status: "En cours",
     matchday: "J18/26",
-    icon: "⚽",
+    icon: "L",
     color: "#4ade80",
     desc: "Trois groupes régionaux: Nord, Centre, Sud",
     href: "#",
@@ -53,7 +53,7 @@ const COMPETITIONS = [
     champion: "Club Africain",
     status: "En cours",
     matchday: "8e de finale",
-    icon: "🏅",
+    icon: "U",
     color: ACCENT,
     desc: "La coupe nationale, ouverte à tous les clubs affiliés",
     href: "#",
@@ -65,7 +65,7 @@ const COMPETITIONS = [
     champion: "Espérance ST",
     status: "Terminé",
     matchday: "Finale",
-    icon: "🥇",
+    icon: "C",
     color: "#f97316",
     desc: "Compétition réservée aux clubs de Ligue 1",
     href: "#",
@@ -77,7 +77,7 @@ const COMPETITIONS = [
     champion: "AS Police",
     status: "En cours",
     matchday: "J15/22",
-    icon: "🏟️",
+    icon: "S",
     color: "#a855f7",
     desc: "Le championnat national de futsal masculin",
     href: "#",
@@ -89,7 +89,7 @@ const COMPETITIONS = [
     champion: "Espérance ST",
     status: "En cours",
     matchday: "J20/26",
-    icon: "🌟",
+    icon: "E",
     color: "#34d399",
     desc: "Championnat espoirs pour les joueurs de moins de 21 ans",
     href: "#",
@@ -227,7 +227,7 @@ export default function CompetitionsPage() {
                     {c.matchday}
                   </span>
                   <span style={{ background: "#111", borderRadius: "6px", padding: "5px 10px", fontSize: "11px", color: MUTED }}>
-                    🏆 {c.champion}
+                    {c.champion}
                   </span>
                 </div>
               </div>
@@ -261,7 +261,7 @@ export default function CompetitionsPage() {
                     {c.teams} équipes
                   </span>
                   <span style={{ background: "#111", borderRadius: "6px", padding: "5px 10px", fontSize: "11px", color: MUTED }}>
-                    🏆 {c.champion}
+                    {c.champion}
                   </span>
                 </div>
               </div>
