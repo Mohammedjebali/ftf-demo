@@ -1,4 +1,1190 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <rect width="32" height="32" rx="6" fill="#c8102e"/>
-  <text x="16" y="22" font-family="Arial Black,sans-serif" font-weight="900" font-size="13" fill="white" text-anchor="middle" letter-spacing="-0.5">FTF</text>
-</svg>
+﻿<!DOCTYPE html> 
+<html class="no-js" lang="fr-FR">
+
+<head>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-62977052-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	<meta charset="UTF-8">
+
+
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=yes">
+
+
+	<title>Fédération Tunisienne de Football - Fédération Tunisienne de Football</title> 
+
+	<link rel="pingback" href="https://www.ftf.org.tn/fr/xmlrpc.php">
+	
+	<script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Fédération Tunisienne de Football &raquo; Flux" href="https://www.ftf.org.tn/fr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Fédération Tunisienne de Football &raquo; Flux des commentaires" href="https://www.ftf.org.tn/fr/comments/feed/" />
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300italic,300,400italic,700&subset=latin,cyrillic-ext" rel="stylesheet" type="text/css">
+		<!-- This site uses the Google Analytics by ExactMetrics plugin v7.10.0 - Using Analytics tracking - https://www.exactmetrics.com/ -->
+		<!-- Note: ExactMetrics is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the ExactMetrics settings panel. -->
+					<!-- No UA code set -->
+				<!-- / Google Analytics by ExactMetrics -->
+				<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.ftf.org.tn\/fr\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='apss-font-awesome-five-css'  href='https://www.ftf.org.tn/fr/wp-content/plugins/accesspress-social-share/css/fontawesome-all.css' type='text/css' media='all' />
+<link rel='stylesheet' id='apss-frontend-css-css'  href='https://www.ftf.org.tn/fr/wp-content/plugins/accesspress-social-share/css/frontend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='apss-font-opensans-css'  href='//fonts.googleapis.com/css?family=Open+Sans' type='text/css' media='all' />
+<link rel='stylesheet' id='wa_chpcs_style-css'  href='https://www.ftf.org.tn/fr/wp-content/plugins/carousel-horizontal-posts-content-slider/assets/css/custom-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.ftf.org.tn/fr/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-swipebox-front-css'  href='https://www.ftf.org.tn/fr/wp-content/plugins/responsive-lightbox/assets/swipebox/source/swipebox.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-roboto-css'  href='//fonts.googleapis.com/css?family=Roboto:,300,400,700' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='https://www.ftf.org.tn/fr/wp-content/plugins/wp-polls/polls-css.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-postratings-css'  href='https://www.ftf.org.tn/fr/wp-content/plugins/wp-postratings/postratings-css.css' type='text/css' media='all' />
+<link rel='stylesheet' id='images-responsive-thumbnail-slider-style-css'  href='https://www.ftf.org.tn/fr/wp-content/plugins/wp-responsive-thumbnail-slider/css/images-responsive-thumbnail-slider-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://www.ftf.org.tn/fr/wp-content/themes/scoreline/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='https://www.ftf.org.tn/fr/wp-content/themes/scoreline/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://www.ftf.org.tn/fr/wp-content/themes/scoreline/fonts/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='https://www.ftf.org.tn/fr/wp-content/plugins/wordpress-popular-posts/style/wpp.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-css'  href='https://www.ftf.org.tn/fr/wp-content/plugins/ubermenu-wordpress-mega-menu-plugin_v3.1.0.1/pro/assets/css/ubermenu.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-red-black-css'  href='https://www.ftf.org.tn/fr/wp-content/plugins/ubermenu-wordpress-mega-menu-plugin_v3.1.0.1/pro/assets/css/skins/redblack.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-font-awesome-css'  href='https://www.ftf.org.tn/fr/wp-content/plugins/ubermenu-wordpress-mega-menu-plugin_v3.1.0.1/assets/css/fontawesome/css/font-awesome.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-content/plugins/carousel-horizontal-posts-content-slider/assets/js/caroufredsel/jquery-1.8.2.min.js'></script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-content/plugins/carousel-horizontal-posts-content-slider/assets/js/caroufredsel/jquery.transit.min.js'></script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-content/plugins/carousel-horizontal-posts-content-slider/assets/js/caroufredsel/jquery.carouFredSel-6.2.1-packed.js'></script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-content/plugins/carousel-horizontal-posts-content-slider/assets/js/caroufredsel/jquery.touchSwipe.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var chpcsArgs = {"auto_scroll":"true","circular":"false","easing_effect":"linear","item_align":"left","direction":"left","touch_swipe":"false","item_width":"130","time_out":"3000","css_transition":"true","infinite":"true","fx":"scroll"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-content/plugins/carousel-horizontal-posts-content-slider/assets/js/script.js'></script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-content/plugins/responsive-lightbox/assets/swipebox/source/jquery.swipebox.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rlArgs = {"script":"swipebox","selector":"lightbox","custom_events":"","activeGalleries":"1","animation":"1","hideBars":"1","hideBarsDelay":"5000","videoMaxWidth":"1080"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-content/plugins/responsive-lightbox/js/front.js'></script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-content/plugins/wp-responsive-thumbnail-slider/js/images-responsive-thumbnail-slider-jc.js'></script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-content/themes/scoreline/js/jquery.flexslider.min.js'></script>
+<script type='text/javascript' src="https://www.ftf.org.tn/fr/wp-content/plugins/vslider/js/vslider.js"></script>
+<link rel='https://api.w.org/' href='https://www.ftf.org.tn/fr/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ftf.org.tn/fr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.ftf.org.tn/fr/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.29" />
+<link rel="canonical" href="https://www.ftf.org.tn/fr/" />
+<link rel='shortlink' href='https://www.ftf.org.tn/fr/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.ftf.org.tn/fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ftf.org.tn%2Ffr%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.ftf.org.tn/fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ftf.org.tn%2Ffr%2F&#038;format=xml" />
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 12px 12px 12px 12px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 16px;
+            color: #e00930;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<style id="ubermenu-custom-generated-css">
+/** UberMenu Custom Menu Styles (Customizer) **/
+/* main */
+.ubermenu-main { max-width:100%; background:#e70013; border:1px solid #e70013; }
+.ubermenu-main .ubermenu-item-level-0 > .ubermenu-target { font-size:15px; }
+.ubermenu.ubermenu-main .ubermenu-item-level-0:hover > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-active > .ubermenu-target { color:#e70013; background:#ffffff; }
+.ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-item > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-parent > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-ancestor > .ubermenu-target { color:#ffffff; }
+.ubermenu-main .ubermenu-item.ubermenu-item-level-0 > .ubermenu-highlight { color:#ffffff; }
+.ubermenu-main .ubermenu-submenu .ubermenu-item-header > .ubermenu-target, .ubermenu-main .ubermenu-tab > .ubermenu-target { font-size:15px; }
+.ubermenu-main .ubermenu-submenu .ubermenu-item-header > .ubermenu-target { color:#ffffff; }
+.ubermenu-main .ubermenu-item-normal > .ubermenu-target { color:#ffffff; font-size:13px; }
+.ubermenu.ubermenu-main .ubermenu-item-normal > .ubermenu-target:hover { color:#dd0000; }
+.ubermenu-main .ubermenu-item-normal.ubermenu-current-menu-item > .ubermenu-target { color:#ffe8eb; }
+.ubermenu-responsive-toggle.ubermenu-responsive-toggle-main { background:#dd3333; color:#ffffff; }
+.ubermenu-responsive-toggle.ubermenu-responsive-toggle-main:hover { background:#ffeded; }
+.ubermenu-main, .ubermenu-main .ubermenu-target, .ubermenu-main .ubermenu-nav .ubermenu-item-level-0 .ubermenu-target, .ubermenu-main div, .ubermenu-main p, .ubermenu-main input { font-family:'Roboto', sans-serif; font-weight:700; }
+.ubermenu-main, .ubermenu-main .ubermenu-target, .ubermenu-main .ubermenu-nav .ubermenu-item-level-0 .ubermenu-target { font:bold 14px roboto; }
+/* main-menu-config */
+.ubermenu-main-menu-config.ubermenu-transition-fade .ubermenu-item .ubermenu-submenu-drop { margin-top:0; }
+
+
+/** UberMenu Custom Menu Item Styles (Menu Item Settings) **/
+/* 1745 */  .ubermenu .ubermenu-submenu.ubermenu-submenu-id-1745 { min-width:300ox; }
+/* 1768 */  .ubermenu .ubermenu-submenu.ubermenu-submenu-id-1768 { min-width:400px; }
+/* 1901 */  .ubermenu .ubermenu-submenu.ubermenu-submenu-id-1901 { min-width:400px; }
+/* 1921 */  .ubermenu .ubermenu-submenu.ubermenu-submenu-id-1921 { min-width:300px; }
+/* 1795 */  .ubermenu .ubermenu-submenu.ubermenu-submenu-id-1795 { min-width:400px; }
+/* 1790 */  .ubermenu .ubermenu-submenu.ubermenu-submenu-id-1790 { min-width:400px; }
+/* 1971 */  .ubermenu .ubermenu-submenu.ubermenu-submenu-id-1971 { min-width:400px; }
+/* 1797 */  .ubermenu .ubermenu-submenu.ubermenu-submenu-id-1797 { min-width:400px; }
+/* 2002 */  .ubermenu .ubermenu-submenu.ubermenu-submenu-id-2002 { min-width:400px; }
+/* 2001 */  .ubermenu .ubermenu-submenu.ubermenu-submenu-id-2001 { min-width:400px; }
+/* 2000 */  .ubermenu .ubermenu-submenu.ubermenu-submenu-id-2000 { min-width:400px; }
+/* 19446 */ .ubermenu .ubermenu-item.ubermenu-item-19446 > .ubermenu-target { background:#ffffff; color:#dd0000; }
+/* 1791 */  .ubermenu .ubermenu-submenu.ubermenu-submenu-id-1791 { min-width:200px; }
+/* 35421 */ .ubermenu .ubermenu-submenu.ubermenu-submenu-id-35421 { width:300px; min-width:300px; }
+/* 38668 */ .ubermenu .ubermenu-submenu.ubermenu-submenu-id-38668 { width:200px; min-width:200px; }
+/* 34788 */ .ubermenu .ubermenu-submenu.ubermenu-submenu-id-34788 { width:200px; min-width:200px; }
+/* 38669 */ .ubermenu .ubermenu-submenu.ubermenu-submenu-id-38669 { width:250px; min-width:250px; }
+/* 34787 */ .ubermenu .ubermenu-submenu.ubermenu-submenu-id-34787 { width:200px; min-width:200px; }
+/* 38687 */ .ubermenu .ubermenu-submenu.ubermenu-submenu-id-38687 { width:200px; min-width:200px; }
+/* 38686 */ .ubermenu .ubermenu-submenu.ubermenu-submenu-id-38686 { width:250px; min-width:250px; }
+
+
+/** UberMenu Custom Tweaks (General Settings) **/
+.ubermenu-skin-red-black.ubermenu-responsive-toggle{
+font-size: 15px !important;
+}
+/* Status: Loaded from Transient */
+
+</style>
+
+<!-- WP Club Manager Version -->
+<meta name="generator" content="WP Club Manager 1.2.6" />
+
+<style type="text/css">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 18px;
+	line-height: 20px;
+	height: 20px;
+	background: #f40000;
+	border: 1px solid #a50808;
+}
+</style>
+<link rel="shortcut icon" href="https://www.ftf.org.tn/fr/wp-content/uploads/2014/12/ic.png" />
+<!--[if lt IE 9]>
+<script src="https://www.ftf.org.tn/fr/wp-content/themes/scoreline/js/ie/html5.js"></script>
+<script src="https://www.ftf.org.tn/fr/wp-content/themes/scoreline/js/ie/selectivizr.js"></script>
+<![endif]-->
+<link rel="stylesheet" href="https://www.ftf.org.tn/fr/wp-content/plugins/links-with-icons-widget/style.css" type="text/css" /><style type="text/css">
+/* Dynamic CSS: For no styles in head, copy and put the css below in your custom.css or child theme's style.css, disable dynamic styles */
+body { font-family: "Roboto Condensed", Arial, sans-serif; }
+.boxed #wrapper, .container-inner { max-width: 1024px; }
+
+::selection { background-color: #e70013; }
+::-moz-selection { background-color: #e70013; }
+
+a,
+.cp-form label .required,
+#flexslider-featured .flex-direction-nav .flex-next:hover,
+#flexslider-featured .flex-direction-nav .flex-prev:hover,
+.post-hover:hover .post-title a,
+.post-title a:hover,
+.post-nav li a:hover i,
+.content .post-nav li a:hover i,
+.s1 .widget_rss ul li a,
+.s1 .widget_calendar a,
+.s1 .cp-posts .post-item-category a,
+.s1 .cp-posts li:hover .post-item-title a,
+.comment-tabs li.active a,
+.comment-awaiting-moderation,
+.child-menu a:hover,
+.child-menu .current_page_item > a,
+.post-nav li a:hover i,
+table.wpcm-ss-table thead th { color: rgb(66, 66, 66); }
+
+.s1 .sidebar-top,
+.s1 .sidebar-toggle,
+.widget > h3,
+.flex-control-nav li a.flex-active,
+.post-tags a:hover,
+.widget_calendar caption,
+.author-bio .bio-avatar:after,
+.commentlist li.bypostauthor > .comment-body:after,
+.commentlist li.comment-author-admin > .comment-body:after,
+.wp-pagenavi a,
+table.cp-table thead tr th.cp-stats,
+table.cp-table thead tr th.cp-player-stat,
+table.cp-table thead tr th.cp-match-stat,
+.s1 table.cp-table thead tr th.cp-stats,
+.s1 table.cp-table thead tr th.cp-player-stat,
+.s1 table.cp-table thead tr th.cp-match-stat,
+.cp-home-score,
+.cp-away-score,
+.cp-players-widget .post-comments,
+.cp-score,
+#wpcm-pa-season-tabs li { background-color: #e70013; }
+table.cp-table td.pos,
+.s1 table.cp-table td.pos { background-color: #e70013 !important; }
+
+.post-format .format-container { border-color: #e70013; }
+
+.comment-tabs li.active a,
+.wp-pagenavi a:hover,
+.wp-pagenavi a:active,
+.wp-pagenavi span.current { border-bottom-color: #e70013!important; }				
+				
+
+.s2 .post-nav li a:hover i,
+.s2 .widget_rss ul li a,
+.s2 .widget_calendar a,
+.s2 .cp-tab .tab-item-category a,
+.s2 .cp-posts .post-item-category a,
+.s2 .cp-tab li:hover .tab-item-title a,
+.s2 .cp-tab li:hover .tab-item-comment a,
+.s2 .cp-posts li:hover .post-item-title a { color: #e70013; }
+
+.s2 .sidebar-top,
+.s2 .sidebar-toggle,
+.s2 .widget > h3,
+.s2 .flex-control-nav li a.flex-active,
+.s2 .post-comments,
+.s2 .widget_calendar caption,
+.s2 .cp-match-overtime,
+.s2 .cp-players-widget .post-comments,
+.s2 .cp-score,
+.s2 table.cp-table thead tr th.cp-player-stat,
+.s2 table.cp-table thead tr th.cp-match-stat,
+.s2 table.cp-table thead tr th.cp-stats { background-color: #e70013; }
+.s2 table.cp-table td.pos { background-color: #e70013 !important; }
+
+.s2 .post-comments span:before { border-right-color: #e70013; }				
+				
+
+#header { background-color: #ffffff; }			
+				
+.site-title a img { max-height: 110px; }
+img { -webkit-border-radius: px; border-radius: px; }
+</style>
+</head>
+
+<body class="home page-template page-template-page-templates page-template-template-acceuil page-template-page-templatestemplate-acceuil-php page page-id-1598 col-2cl boxed topbar-enabled unknown">
+
+<div id="wrapper">	
+
+	<header id="header">
+      <!--
+       <div class="carousel_container">
+		</div>/#nav-topbar-->
+		
+		
+					<nav class="nav-container group" id="nav-topbar">
+            
+				<div class="nav-toggle"><i class="fa fa-bars"></i></div>
+				<div class="nav-text"></div>
+				<div class="nav-wrap container"><ul id="menu-menu1" class="nav container-inner group"><li id="menu-item-4444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4444"><a href="https://www.ftf.org.tn/fr/calendriers-2/">CALENDRIERS</a></li>
+<li id="menu-item-8146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8146"><a href="https://www.ftf.org.tn/fr/telechargements/">TELECHARGEMENTS</a></li>
+<li id="menu-item-17324" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17324"><a href="https://www.ftf.org.tn/fr/category/designation-des-arbitres/">Désignation des Arbitres</a></li>
+<li id="menu-item-30451" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30451"><a href="https://www.ftf.org.tn/fr/category/ecole-federale/">Ecole Fédérale</a></li>
+<li id="menu-item-18804" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-18804"><a href="https://www.ftf.org.tn/fr/category/feuille-de-match/">Feuille de match</a>
+<ul class="sub-menu">
+	<li id="menu-item-41417" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-41417"><a href="https://www.ftf.org.tn/fr/category/fmi-2022-2023/">FMI – 2022/2023</a>
+	<ul class="sub-menu">
+		<li id="menu-item-41416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41416"><a href="https://www.ftf.org.tn/fr/ligue-i-2022-2023/">Ligue I – 2022/2023</a></li>
+	</ul>
+</li>
+	<li id="menu-item-40349" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-40349"><a href="https://www.ftf.org.tn/fr/category/fmi-2021-2022/">FMI – 2021/2022</a>
+	<ul class="sub-menu">
+		<li id="menu-item-40348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40348"><a href="https://www.ftf.org.tn/fr/ligue-i-2021-2022/">Ligue I – 2021/2022</a></li>
+	</ul>
+</li>
+	<li id="menu-item-38157" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-38157"><a href="https://www.ftf.org.tn/fr/category/fmi-2020-2021/">FMI 2020/2021</a>
+	<ul class="sub-menu">
+		<li id="menu-item-38168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38168"><a href="https://www.ftf.org.tn/fr/ligue-i-2020-2021/">Ligue I – 2020/2021</a></li>
+	</ul>
+</li>
+	<li id="menu-item-34898" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34898"><a href="https://www.ftf.org.tn/fr/category/fmi-2019-2020/">FMI 2019/2020</a>
+	<ul class="sub-menu">
+		<li id="menu-item-34899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34899"><a href="https://www.ftf.org.tn/fr/ligue-i-2019-2020/">Ligue I – 2019/2020</a></li>
+		<li id="menu-item-37325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37325"><a href="https://www.ftf.org.tn/fr/ligue-ii-2019-2020/">Ligue II – 2019/2020</a></li>
+	</ul>
+</li>
+	<li id="menu-item-32415" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-32415"><a href="https://www.ftf.org.tn/fr/category/feuilles-de-match-2018-2019/">Feuilles de match 2018/2019</a>
+	<ul class="sub-menu">
+		<li id="menu-item-32419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32419"><a href="https://www.ftf.org.tn/fr/ligue-i-3/">–Ligue I-</a></li>
+		<li id="menu-item-32418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32418"><a href="https://www.ftf.org.tn/fr/ligue-ii-3/">–Ligue II-</a></li>
+	</ul>
+</li>
+	<li id="menu-item-23083" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-23083"><a href="https://www.ftf.org.tn/fr/category/feuille-de-match-20172018/">Feuille de match 2017/2018</a>
+	<ul class="sub-menu">
+		<li id="menu-item-23084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23084"><a href="https://www.ftf.org.tn/fr/ligue-i-2/">–Ligue I–</a></li>
+		<li id="menu-item-24264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24264"><a href="https://www.ftf.org.tn/fr/ligue-ii-2/">–Ligue II–</a></li>
+	</ul>
+</li>
+	<li id="menu-item-23082" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-23082"><a href="https://www.ftf.org.tn/fr/category/feuille-de-match-20162017/">Feuille de match 2016/2017</a>
+	<ul class="sub-menu">
+		<li id="menu-item-18805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18805"><a href="https://www.ftf.org.tn/fr/ligue-i/">-Ligue I-</a></li>
+		<li id="menu-item-21336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21336"><a href="https://www.ftf.org.tn/fr/ligue-ii/">-Ligue II-</a></li>
+		<li id="menu-item-19425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19425"><a href="https://www.ftf.org.tn/fr/ligue-iii/">-Ligue III-</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul></div>
+				
+				
+				
+			</nav>
+				
+        
+        <div class="container group">
+			<div class="container-inner">  
+            
+                      
+             <div class="home-widget-1 grid one-half displaytable">
+                     <div class="logo_site">
+                     <a href="https://www.ftf.org.tn/fr/"><img src="https://www.ftf.org.tn/fr/wp-content/uploads/2014/12/LOGO-FTF_df84263d3942d7a318831d94f0873c4e.png" alt="Fédération Tunisienne de Football"/></a> 
+                     </div>   
+                     <div class="titre_site">Fédération Tunisienne de Football</div>             
+                
+             </div>
+             
+             
+              <div class="home-widget-1 grid one-half displaytable">
+              
+              <div class="palmareses"> <img src="/fr/img/2004.png"></div>
+       
+       <div class="header3">
+        
+        	<a href="https://www.ftf.org.tn/fr/"><div class="language_bn">FR</div></a>
+           
+            <a href="https://www.ftf.org.tn/ar2/"><div class="language_bn">ع</div></a> 
+       
+        
+        </div>
+        
+<div class="header1">
+        	<div class="menu_sec"> <a href="/fr/contact/">CONTACT</a> | PLAN DU SITE </div>
+        	
+           <div class="recherche_frome"> <form method="get" class="searchform cp-form" action="https://www.ftf.org.tn/fr/">
+	<div>
+		<input type="text" class="search" name="s" onblur="if(this.value=='')this.value='Rechercher';" onfocus="if(this.value=='Rechercher')this.value='';" value="Rechercher" />
+	</div>
+</form> </div> 
+            
+        
+        </div>
+ 
+              </div>
+            
+            </div>
+     	 </div>
+        
+        
+        
+        
+         
+
+		<nav class="nav-container group" id="nav-header">
+				  <div class="ubermenu-responsive-toggle ubermenu-responsive-toggle-main ubermenu-skin-red-black ubermenu-loc-" data-ubermenu-target="ubermenu-main-75"><i class="fa fa-bars"></i>Menu</div><nav id="ubermenu-main-75" class="ubermenu ubermenu-nojs ubermenu-main ubermenu-menu-75 ubermenu-responsive ubermenu-responsive-default ubermenu-responsive-collapse ubermenu-horizontal ubermenu-transition-slide ubermenu-trigger-hover_intent ubermenu-skin-red-black ubermenu-bar-align-center ubermenu-items-align-center ubermenu-bound-inner ubermenu-sub-indicators ubermenu-retractors-responsive"><ul id="ubermenu-nav-main-75" class="ubermenu-nav"><li id="menu-item-2260" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-current-menu-item ubermenu-current_page_item ubermenu-item-home ubermenu-item-2260 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Accueil</span></a></li><li id="menu-item-1745" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-1745 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">LA FTF</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-1745 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-1765" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1765 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/fiche-signalitique/"><span class="ubermenu-target-title ubermenu-target-text">Fiche Signalétique</span></a></li><li id="menu-item-2568" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-2568 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/commissions-federales/"><span class="ubermenu-target-title ubermenu-target-text">Commissions Fédérales</span></a></li><li id="menu-item-2571" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-2571 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/commissions-juridique/"><span class="ubermenu-target-title ubermenu-target-text">Commissions Nationales juridiques</span></a></li><li id="menu-item-36957" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-36957 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligues-nationales/"><span class="ubermenu-target-title ubermenu-target-text">Ligues Nationales</span></a></li><li id="menu-item-1903" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1903 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/les-membres-tunisiens-aux-instances-internationales/"><span class="ubermenu-target-title ubermenu-target-text">Membres Tunisiens aux instances internationales</span></a></li><li id="menu-item-1902" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1902 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/statut-et-reglements/"><span class="ubermenu-target-title ubermenu-target-text">Statut et Règlements</span></a></li><li id="menu-item-3179" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-3179 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/agents-de-matchs-fifa/"><span class="ubermenu-target-title ubermenu-target-text">Agents de Matchs FIFA</span></a></li><li id="menu-item-3180" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-3180 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/intermediaires/"><span class="ubermenu-target-title ubermenu-target-text">Agents de joueurs</span></a></li></ul></li><li id="menu-item-1789" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-1789 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only ubermenu-target-nowrap" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">EQUIPE NATIONALE A</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-1789 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-1920" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1920 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/organigramme/"><span class="ubermenu-target-title ubermenu-target-text">Organigramme</span></a></li><li id="menu-item-1929" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1929 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/en-calandrier/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier et Résultats</span></a></li><li id="menu-item-2645" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-2645 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/selectionneurs/"><span class="ubermenu-target-title ubermenu-target-text">Séléctionneurs</span></a></li><li id="menu-item-1928" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1928 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/sponsors/"><span class="ubermenu-target-title ubermenu-target-text">Sponsors</span></a></li></ul></li><li id="menu-item-1795" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-1795 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">DTN</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-1795 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-1955" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1955 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/organigramme-2/"><span class="ubermenu-target-title ubermenu-target-text">DTN-Organigramme</span></a></li><li id="menu-item-8154" class="ubermenu-item ubermenu-item-type-taxonomy ubermenu-item-object-category ubermenu-item-8154 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/category/direction-technique/"><span class="ubermenu-target-title ubermenu-target-text">Formations</span></a></li><li id="menu-item-1950" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-has-children ubermenu-item-1950 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1 ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/lequipe-nationale-jeunes/"><span class="ubermenu-target-title ubermenu-target-text">Equipes Nationales Jeunes</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-1950 ubermenu-submenu-type-auto ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-1951" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1951 ubermenu-item-auto ubermenu-item-unknown-[unk] ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/lequipe-nationale-olympique/"><span class="ubermenu-target-title ubermenu-target-text">EN Olympique (U21)</span></a></li><li id="menu-item-2815" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-2815 ubermenu-item-auto ubermenu-item-unknown-[unk] ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/en-juniors-u20/"><span class="ubermenu-target-title ubermenu-target-text">EN Juniors (U20)</span></a></li><li id="menu-item-2814" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-2814 ubermenu-item-auto ubermenu-item-unknown-[unk] ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/en-cadets-u17/"><span class="ubermenu-target-title ubermenu-target-text">EN Cadets (U17)</span></a></li><li id="menu-item-2813" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-2813 ubermenu-item-auto ubermenu-item-unknown-[unk] ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/equipe-nationale-borj-cedria/"><span class="ubermenu-target-title ubermenu-target-text">EN Borj Cedria</span></a></li><li id="menu-item-2812" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-2812 ubermenu-item-auto ubermenu-item-unknown-[unk] ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/equipe-nationale-feminine/"><span class="ubermenu-target-title ubermenu-target-text">EN Féminine</span></a></li></ul></li><li id="menu-item-15204" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-15204 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/documents-dtn/"><span class="ubermenu-target-title ubermenu-target-text">Documents DTN</span></a></li></ul></li><li id="menu-item-1790" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-1790 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">DNA</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-1790 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-1978" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1978 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/dna-organigramme/"><span class="ubermenu-target-title ubermenu-target-text">DNA-Organigramme</span></a></li><li id="menu-item-1977" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1977 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/loi-de-jeux/"><span class="ubermenu-target-title ubermenu-target-text">LOI DU JEU</span></a></li><li id="menu-item-8161" class="ubermenu-item ubermenu-item-type-taxonomy ubermenu-item-object-category ubermenu-item-8161 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/category/designation-des-arbitres/"><span class="ubermenu-target-title ubermenu-target-text">Désignation des Arbitres</span></a></li><li id="menu-item-1975" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1975 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/arbitres-internationaux/"><span class="ubermenu-target-title ubermenu-target-text">Arbitres Internationaux</span></a></li><li id="menu-item-2684" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-2684 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/commissions-dna/"><span class="ubermenu-target-title ubermenu-target-text">Composition – DNA</span></a></li><li id="menu-item-7553" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-7553 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/documents-dna/"><span class="ubermenu-target-title ubermenu-target-text">Documents DNA</span></a></li></ul></li><li id="menu-item-1791" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-1791 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">COMPETITIONS</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-1791 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-2000" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-2000 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1 ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">Ligue I</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-2000 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-42714" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-42714 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/calandrier-et-resultats-ligue-1/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier et résultats</span></a></li><li id="menu-item-42713" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-42713 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-i-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Classement</span></a></li></ul></li><li id="menu-item-2001" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-2001 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1 ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">Ligue II</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-2001 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-38212" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38212 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-2-poule-1-calendrier-et-resultats/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier et résultats : Poule 1</span></a></li><li id="menu-item-38211" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38211 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-2-poule-2-calendrier-et-resultats/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier et résultats : Poule 2</span></a></li><li id="menu-item-38196" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38196 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-2-poule-1-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Classement Poule 1</span></a></li><li id="menu-item-38195" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38195 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-2-poule-2-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Classement Poule 2</span></a></li><li id="menu-item-21922" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-21922 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/calandrier-et-resultats-ligue-2-play-off/"><span class="ubermenu-target-title ubermenu-target-text">CALANDRIER ET RESULTATS: LIGUE 2 PLAY-OFF</span></a></li><li id="menu-item-37611" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-37611 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">PLAY OUT</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-37611 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-37612" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-37612 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">Groupe A</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-37612 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-37608" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-37608 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/calandrier-et-resultats-ligue-2-play-out-groupe-a/"><span class="ubermenu-target-title ubermenu-target-text">CALANDRIER ET RESULTATS</span></a></li><li id="menu-item-37610" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-37610 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-2-play-out-groupe-a-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Résultats et classement</span></a></li></ul></li><li id="menu-item-37613" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-37613 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">Groupe B</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-37613 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-37607" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-37607 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/calandrier-et-resultats-ligue-2-play-out-groupe-b/"><span class="ubermenu-target-title ubermenu-target-text">CALANDRIER ET RESULTATS</span></a></li><li id="menu-item-37609" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-37609 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-2-play-out-groupe-b-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Résultats et classement</span></a></li></ul></li></ul></li></ul></li><li id="menu-item-34723" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-34723 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1 ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">Ligue Amateur</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-34723 ubermenu-submenu-type-auto ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-34787" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-34787 ubermenu-item-auto ubermenu-item-unknown-[unk] ubermenu-item-level-2 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">Niveau 1</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-34787 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-38686" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-38686 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">Calendrier et résultats</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-38686 ubermenu-submenu-type-auto ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-38670" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38670 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv1-poule-1-calendrier-et-resultats/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier Et Résultats : Poule 1</span></a></li><li id="menu-item-38672" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38672 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv1-poule-2-calendrier-et-resultats/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier Et Résultats : Poule 2</span></a></li><li id="menu-item-38674" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38674 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv1-poule-3-calendrier-et-resultats/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier Et Résultats : Poule 3</span></a></li><li id="menu-item-38676" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38676 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv1-poule-4-calendrier-et-resultats/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier Et Résultats : Poule 4</span></a></li><li id="menu-item-38678" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38678 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv1-poule-5-calendrier-et-resultats/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier Et Résultats : Poule 5</span></a></li><li id="menu-item-38680" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38680 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv1-poule-6-calendrier-et-resultats/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier Et Résultats : Poule 6</span></a></li><li id="menu-item-38682" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38682 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv1-poule-7-calendrier-et-resultats/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier Et Résultats : Poule 7</span></a></li><li id="menu-item-38684" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38684 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv1-poule-8-calendrier-et-resultats/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier Et Résultats : Poule 8</span></a></li></ul></li><li id="menu-item-38687" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-38687 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">Classement</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-38687 ubermenu-submenu-type-auto ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-38671" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38671 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv1-poule-1-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Classement Poule 1</span></a></li><li id="menu-item-38673" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38673 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv1-poule-2-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Classement Poule 2</span></a></li><li id="menu-item-38675" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38675 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv1-poule-3-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Classement Poule 3</span></a></li><li id="menu-item-38677" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38677 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv1-poule-4-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Classement Poule 4</span></a></li><li id="menu-item-38679" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38679 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv1-poule-5-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Classement Poule 5</span></a></li><li id="menu-item-38681" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38681 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv1-poule-6-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Classement Poule 6</span></a></li><li id="menu-item-38683" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38683 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv1-poule-7-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Classement Poule 7</span></a></li><li id="menu-item-38685" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38685 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv1-poule-8-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Classement Poule 8</span></a></li></ul></li></ul></li><li id="menu-item-34788" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-34788 ubermenu-item-auto ubermenu-item-unknown-[unk] ubermenu-item-level-2 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">Niveau 2</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-34788 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-38669" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-38669 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">Calendrier et résultats</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-38669 ubermenu-submenu-type-auto ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-38662" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38662 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv2-poule-1-calendrier-et-resultats/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier Et Résultats : Poule 1</span></a></li><li id="menu-item-38664" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38664 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv2-poule-2-calendrier-et-resultats/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier Et Résultats : Poule 2</span></a></li><li id="menu-item-38666" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38666 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv2-poule-3-calendrier-et-resultats/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier Et Résultats : Poule 3</span></a></li><li id="menu-item-38652" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38652 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv2-poule-4-calendrier-et-resultats/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier Et Résultats : Poule 4</span></a></li><li id="menu-item-38654" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38654 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv2-poule-5-calendrier-et-resultats/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier Et Résultats : Poule 5</span></a></li><li id="menu-item-38656" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38656 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv2-poule-6-calendrier-et-resultats/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier Et Résultats : Poule 6</span></a></li><li id="menu-item-38658" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38658 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv2-poule-7-calendrier-et-resultats/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier Et Résultats : Poule 7</span></a></li><li id="menu-item-38660" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38660 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv2-poule-8-calendrier-et-resultats/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier Et Résultats : Poule 8</span></a></li></ul></li><li id="menu-item-38668" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-38668 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">Classement</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-38668 ubermenu-submenu-type-auto ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-38663" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38663 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv2-poule-1-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Classement Poule 1</span></a></li><li id="menu-item-38665" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38665 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv2-poule-2-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Classement Poule 2</span></a></li><li id="menu-item-38651" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38651 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv2-poule-3-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Classement Poule 3</span></a></li><li id="menu-item-38653" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38653 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv2-poule-4-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Classement Poule 4</span></a></li><li id="menu-item-38655" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38655 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv2-poule-5-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Classement Poule 5</span></a></li><li id="menu-item-38657" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38657 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv2-poule-6-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Classement Poule 6</span></a></li><li id="menu-item-38659" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38659 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv2-poule-7-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Classement Poule 7</span></a></li><li id="menu-item-38661" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38661 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/ligue-amateurs-niv2-poule-8-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Classement Poule 8</span></a></li></ul></li></ul></li></ul></li><li id="menu-item-35421" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-35421 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1 ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">Foot Féminin</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-35421 ubermenu-submenu-type-auto ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-35462" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-35462 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/foot-feminin-groupe-a-calendrier-et-resultats/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier Et Résultats : Groupe A</span></a></li><li id="menu-item-35461" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-35461 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/foot-feminin-groupe-b-calendrier-et-resultats/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier Et Résultats : Groupe B</span></a></li><li id="menu-item-35423" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-35423 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/classement-foot-feminin-groupe-a/"><span class="ubermenu-target-title ubermenu-target-text">Classement Groupe A</span></a></li><li id="menu-item-35422" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-35422 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/classement-foot-feminin-groupe-b/"><span class="ubermenu-target-title ubermenu-target-text">Classement Groupe B</span></a></li></ul></li><li id="menu-item-37707" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-37707 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1 ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">Coupe de Tunisie</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-37707 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-37706" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-37706 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/calandrier-et-resultats-coupe-de-tunisie/"><span class="ubermenu-target-title ubermenu-target-text">Calendrier Et Résultats</span></a></li><li id="menu-item-37705" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-37705 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.ftf.org.tn/fr/coupe-de-tunisie-resultats-et-classement/"><span class="ubermenu-target-title ubermenu-target-text">Classement</span></a></li></ul></li></ul></li><li id="menu-item-1797" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-1797 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">MEDIAS</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-1797 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item" ><li id="menu-item-2029" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-2029 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="/fr/category/albums-photos"><span class="ubermenu-target-title ubermenu-target-text">Albums Photos</span></a></li><li id="menu-item-2030" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-2030 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="/fr/category/albums-videos/"><span class="ubermenu-target-title ubermenu-target-text">Albums Videos</span></a></li></ul></li></ul></nav> 
+			</nav><!--/#nav-header-->
+<!--
+  	<div id="wrapper">
+<a href="https://www.youtube.com/watch?v=KN0GFsLnJW8&feature=share"       target="_blank">       	<img src="/fr/img/livefr.png">
+         
+       </a>
+      
+    	
+  </div>
+-->
+	</header>
+    <!--/#header-->
+	
+	<div class="container" id="page">
+		<div class="container-inner">
+	
+
+			
+
+<!-- <div style="width: 100%; display: inline-block; text-align: center; margin-top: 20px;">
+<div class="titre_tous_les_infos-bar" style=" width: 20%; "></div>
+<a href="/fr/category/actualites"><div class="titre_tous_les_infos" style=" width: 60%; ">TIRAGE AU SORT COUPE 1/8, LE 31/01 À 14H</div></a>
+<div class="titre_tous_les_infos-bar" style=" width: 20%; "></div>
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhjtualangsekah%2Fvideos%2F281047565898040%2F&width=900&show_text=false&appId=895736400617368&height=413" width="900" height="413" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+
+</div> -->
+
+
+			<div class="main">
+				<div class="main-inner group"><section class="content">
+
+<!--<div style="width: 100%; display: inline-block; text-align: center; margin-top: 20px;">
+<div class="titre_tous_les_infos-bar" style=" width: 20%; "></div>
+<a href="/fr/category/actualites"><div class="titre_tous_les_infos" style=" width: 60%; ">TIRAGE AU SORT COUPE 1/8, LE 31/01 À 14H</div></a>
+<div class="titre_tous_les_infos-bar" style=" width: 20%; "></div>
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FMarshall89HD%2Fvideos%2F315548659166201%2F&width=704&show_text=false&appId=895736400617368&height=396" width="704" height="396" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+
+</div>
+-->
+
+
+
+	
+	
+
+	
+	<script type="text/javascript">
+		// Check if first slider image is loaded, and load flexslider on document ready
+		jQuery(document).ready(function(){
+			var firstImage = jQuery('#flexslider-featured').find('img').filter(':first'),
+			checkforloaded = setInterval(function() {
+				var image = firstImage.get(0);
+				if (image.complete || image.readyState == 'complete' || image.readyState == 4) {
+					clearInterval(checkforloaded);
+					
+					jQuery('#flexslider-featured').flexslider({
+						animation: "slide",
+						useCSS: false, // Fix iPad flickering issue
+						directionNav: true,
+						controlNav: true,
+						pauseOnHover: true,
+						slideshowSpeed: 6500,
+						animationSpeed: 400,
+						smoothHeight: true,
+						touch: false
+					});
+					
+				}
+			}, 20);
+		});
+	</script>
+		
+	<div class="featured flexslider" id="flexslider-featured">
+		<ul class="slides">				
+						<li>	
+				<article id="post-44012" class="group post-44012 post type-post status-publish format-standard has-post-thumbnail hentry category-actualites category-consultations">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://www.ftf.org.tn/fr/fourniture-de-marbre-destine-au-centre-dhebergement/" title="Fourniture de Marbre destiné au centre d’hébergement">
+									<img width="720" height="340" src="https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-720x340.png" class="attachment-thumb-large size-thumb-large wp-post-image" alt="" srcset="https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-720x340.png 720w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-25x13.png 25w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-520x245.png 520w" sizes="(max-width: 720px) 100vw, 720px" />															</a>
+		</div><!--/.post-thumbnail-->
+		
+		<div class="post-title-group">
+			<h2 class="post-title">
+				<a href="https://www.ftf.org.tn/fr/fourniture-de-marbre-destine-au-centre-dhebergement/" rel="bookmark" title="Fourniture de Marbre destiné au centre d’hébergement">Fourniture de Marbre destiné au centre d’hébergement</a>
+			</h2><!--/.post-title-->
+			<p class="post-date">26 Mar, 2026</p>
+		</div>
+		
+	</div><!--/.post-inner-->	
+</article><!--/.post-->				</li>
+						<li>	
+				<article id="post-44008" class="group post-44008 post type-post status-publish format-standard has-post-thumbnail hentry category-actualites category-communiques">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://www.ftf.org.tn/fr/communique-appel-doffres-a0-001-2026/" title="Communiqué: Appel d’offres A0-001/2026">
+									<img width="720" height="340" src="https://www.ftf.org.tn/fr/wp-content/uploads/2024/09/Capture-d’écran-2024-09-02-à-16.32.22-720x340.png" class="attachment-thumb-large size-thumb-large wp-post-image" alt="" srcset="https://www.ftf.org.tn/fr/wp-content/uploads/2024/09/Capture-d’écran-2024-09-02-à-16.32.22-720x340.png 720w, https://www.ftf.org.tn/fr/wp-content/uploads/2024/09/Capture-d’écran-2024-09-02-à-16.32.22-520x245.png 520w" sizes="(max-width: 720px) 100vw, 720px" />															</a>
+		</div><!--/.post-thumbnail-->
+		
+		<div class="post-title-group">
+			<h2 class="post-title">
+				<a href="https://www.ftf.org.tn/fr/communique-appel-doffres-a0-001-2026/" rel="bookmark" title="Communiqué: Appel d’offres A0-001/2026">Communiqué: Appel d’offres A0-001/2026</a>
+			</h2><!--/.post-title-->
+			<p class="post-date">24 Mar, 2026</p>
+		</div>
+		
+	</div><!--/.post-inner-->	
+</article><!--/.post-->				</li>
+						<li>	
+				<article id="post-44003" class="group post-44003 post type-post status-publish format-standard has-post-thumbnail hentry category-actualites category-consultations">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://www.ftf.org.tn/fr/2eme-avis-acquisition-de-fournitures-de-bureau/" title="2ème Avis: Acquisition de fournitures de bureau">
+									<img width="720" height="340" src="https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-720x340.png" class="attachment-thumb-large size-thumb-large wp-post-image" alt="" srcset="https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-720x340.png 720w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-25x13.png 25w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-520x245.png 520w" sizes="(max-width: 720px) 100vw, 720px" />															</a>
+		</div><!--/.post-thumbnail-->
+		
+		<div class="post-title-group">
+			<h2 class="post-title">
+				<a href="https://www.ftf.org.tn/fr/2eme-avis-acquisition-de-fournitures-de-bureau/" rel="bookmark" title="2ème Avis: Acquisition de fournitures de bureau">2ème Avis: Acquisition de fournitures de bureau</a>
+			</h2><!--/.post-title-->
+			<p class="post-date">23 Mar, 2026</p>
+		</div>
+		
+	</div><!--/.post-inner-->	
+</article><!--/.post-->				</li>
+						<li>	
+				<article id="post-43999" class="group post-43999 post type-post status-publish format-standard has-post-thumbnail hentry category-actualites category-consultations">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://www.ftf.org.tn/fr/2eme-avis-acquisition-des-systemes-gps/" title="2ème Avis &#8211; Acquisition des systèmes GPS">
+									<img width="720" height="340" src="https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-720x340.png" class="attachment-thumb-large size-thumb-large wp-post-image" alt="" srcset="https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-720x340.png 720w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-25x13.png 25w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-520x245.png 520w" sizes="(max-width: 720px) 100vw, 720px" />															</a>
+		</div><!--/.post-thumbnail-->
+		
+		<div class="post-title-group">
+			<h2 class="post-title">
+				<a href="https://www.ftf.org.tn/fr/2eme-avis-acquisition-des-systemes-gps/" rel="bookmark" title="2ème Avis &#8211; Acquisition des systèmes GPS">2ème Avis &#8211; Acquisition des systèmes GPS</a>
+			</h2><!--/.post-title-->
+			<p class="post-date">18 Mar, 2026</p>
+		</div>
+		
+	</div><!--/.post-inner-->	
+</article><!--/.post-->				</li>
+						<li>	
+				<article id="post-43991" class="group post-43991 post type-post status-publish format-standard has-post-thumbnail hentry category-actualites category-consultations">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://www.ftf.org.tn/fr/service-de-billetterie-electronique/" title="Service de Billetterie Électronique">
+									<img width="720" height="340" src="https://www.ftf.org.tn/fr/wp-content/uploads/2025/07/Capture-d’écran-2025-05-13-à-21.17.53-720x340.png" class="attachment-thumb-large size-thumb-large wp-post-image" alt="" srcset="https://www.ftf.org.tn/fr/wp-content/uploads/2025/07/Capture-d’écran-2025-05-13-à-21.17.53-720x340.png 720w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/07/Capture-d’écran-2025-05-13-à-21.17.53-25x13.png 25w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/07/Capture-d’écran-2025-05-13-à-21.17.53-520x245.png 520w" sizes="(max-width: 720px) 100vw, 720px" />															</a>
+		</div><!--/.post-thumbnail-->
+		
+		<div class="post-title-group">
+			<h2 class="post-title">
+				<a href="https://www.ftf.org.tn/fr/service-de-billetterie-electronique/" rel="bookmark" title="Service de Billetterie Électronique">Service de Billetterie Électronique</a>
+			</h2><!--/.post-title-->
+			<p class="post-date">10 Mar, 2026</p>
+		</div>
+		
+	</div><!--/.post-inner-->	
+</article><!--/.post-->				</li>
+						
+		</ul>
+	</div><!--/.featured-->
+
+    
+    <div class="categories_slider_container">       
+        <style type='text/css' >
+        .bx-wrapper .bx-viewport {
+          background: none repeat scroll 0 0 #FFFFFF !important;
+          border: 0px none !important;
+          box-shadow: 0 0 0 0 !important;
+          /*padding:3px !important;*/
+        }
+         </style>              
+        <div style="clear: both;"></div>
+                 <div style="width: auto;postion:relative" id="divSliderMain">
+           <div class="responsiveSlider" style="margin-top: 2px !important;">
+                       
+                              
+                         <div class="limargin"> 
+                                                                                                                                                                                                                                                                                                               
+                            <a target="_blank" href="https://www.ftf.org.tn/fr/category/ligue-1"> <div class="categoriesSliderTitle"> 
+                            LIGUE1</div>
+                            </a>
+                            
+                            
+                            
+                            
+                           
+                         </div>
+                       
+                            
+                              
+                         <div class="limargin"> 
+                                                                                                                                                                                                                                                                                                               
+                            <a target="_blank" href="https://www.ftf.org.tn/fr/category/ligue-2"> <div class="categoriesSliderTitle"> 
+                            LIGUE2</div>
+                            </a>
+                            
+                            
+                            
+                            
+                           
+                         </div>
+                       
+                            
+                              
+                         <div class="limargin"> 
+                                                                                                                                                                                                                                                                                                               
+                            <a target="_blank" href="https://www.ftf.org.tn/fr/category/ligue-3"> <div class="categoriesSliderTitle"> 
+                            LIGUE3</div>
+                            </a>
+                            
+                            
+                            
+                            
+                           
+                         </div>
+                       
+                            
+                              
+                         <div class="limargin"> 
+                                                                                                                                                                                                                                                                                                               
+                            <a target="_blank" href="https://www.ftf.org.tn/fr/category/ligues-regionales"> <div class="categoriesSliderTitle"> 
+                            LIGUES REGIONALES</div>
+                            </a>
+                            
+                            
+                            
+                            
+                           
+                         </div>
+                       
+                            
+                              
+                         <div class="limargin"> 
+                                                                                                                                                                                                                                                                                                               
+                            <a target="_blank" href="https://www.ftf.org.tn/fr/category/futsal"> <div class="categoriesSliderTitle"> 
+                            FUTSALL</div>
+                            </a>
+                            
+                            
+                            
+                            
+                           
+                         </div>
+                       
+                      
+                   
+               </div>
+         </div>                   
+            <script>
+            var $n = jQuery.noConflict();  
+            $n(document).ready(function(){
+             var sliderMainHtml=$n('#divSliderMain').html();   
+             var slider= $n('.responsiveSlider').bxSlider({
+                                     slideWidth: 143,
+                    minSlides: 1,
+                    maxSlides: 5,
+                    moveSlides: 1,
+                    slideMargin: 3,  
+                    speed:1000,
+                    pause:1000,
+                                                              controls:true,
+                                        pager:false,
+                    useCSS:false,
+                                                            infiniteLoop: true
+                                    
+              });
+                
+              
+                 
+            
+              
+                
+                
+      });
+               
+            
+            </script>      
+ </div>
+	 
+
+	<div class="titre_tous_les_infos-bar"></div>
+    <a href="/fr/category/actualites">
+    <div class="titre_tous_les_infos">Toutes les infos</div></a>
+    <div class="titre_tous_les_infos-bar"></div>
+    
+	<div id="home-widgets" class="pad group">
+    
+    	<div class="home-widget-1 grid one-half">
+        
+                
+       						<a href = "https://www.ftf.org.tn/fr/fourniture-de-marbre-destine-au-centre-dhebergement/">
+                          	<div class="articles-gauches-container">
+                            
+                          							   	<div class="articles-gauches-small-thumb">
+						   	<img width="160" height="160" src="https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-160x160.png" class="attachment-thumb-small size-thumb-small wp-post-image" alt="" srcset="https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-160x160.png 160w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-200x200.png 200w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-25x25.png 25w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-300x300.png 300w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-90x90.png 90w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-40x40.png 40w" sizes="(max-width: 160px) 100vw, 160px" />                           	</div>
+						   
+                         Fourniture de Marbre destiné au centre d’hébergement </div></a>
+		  
+       						<a href = "https://www.ftf.org.tn/fr/communique-appel-doffres-a0-001-2026/">
+                          	<div class="articles-gauches-container">
+                            
+                          							   	<div class="articles-gauches-small-thumb">
+						   	<img width="160" height="160" src="https://www.ftf.org.tn/fr/wp-content/uploads/2024/09/Capture-d’écran-2024-09-02-à-16.32.22-160x160.png" class="attachment-thumb-small size-thumb-small wp-post-image" alt="" srcset="https://www.ftf.org.tn/fr/wp-content/uploads/2024/09/Capture-d’écran-2024-09-02-à-16.32.22-160x160.png 160w, https://www.ftf.org.tn/fr/wp-content/uploads/2024/09/Capture-d’écran-2024-09-02-à-16.32.22-200x200.png 200w, https://www.ftf.org.tn/fr/wp-content/uploads/2024/09/Capture-d’écran-2024-09-02-à-16.32.22-25x25.png 25w, https://www.ftf.org.tn/fr/wp-content/uploads/2024/09/Capture-d’écran-2024-09-02-à-16.32.22-300x300.png 300w, https://www.ftf.org.tn/fr/wp-content/uploads/2024/09/Capture-d’écran-2024-09-02-à-16.32.22-90x90.png 90w, https://www.ftf.org.tn/fr/wp-content/uploads/2024/09/Capture-d’écran-2024-09-02-à-16.32.22-40x40.png 40w" sizes="(max-width: 160px) 100vw, 160px" />                           	</div>
+						   
+                         Communiqué: Appel d’offres A0-001/2026 </div></a>
+		  
+       						<a href = "https://www.ftf.org.tn/fr/2eme-avis-acquisition-de-fournitures-de-bureau/">
+                          	<div class="articles-gauches-container">
+                            
+                          							   	<div class="articles-gauches-small-thumb">
+						   	<img width="160" height="160" src="https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-160x160.png" class="attachment-thumb-small size-thumb-small wp-post-image" alt="" srcset="https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-160x160.png 160w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-200x200.png 200w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-25x25.png 25w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-300x300.png 300w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-90x90.png 90w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-40x40.png 40w" sizes="(max-width: 160px) 100vw, 160px" />                           	</div>
+						   
+                         2ème Avis: Acquisition de fournitures de bureau </div></a>
+		  
+       						<a href = "https://www.ftf.org.tn/fr/2eme-avis-acquisition-des-systemes-gps/">
+                          	<div class="articles-gauches-container">
+                            
+                          							   	<div class="articles-gauches-small-thumb">
+						   	<img width="160" height="160" src="https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-160x160.png" class="attachment-thumb-small size-thumb-small wp-post-image" alt="" srcset="https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-160x160.png 160w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-200x200.png 200w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-25x25.png 25w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-300x300.png 300w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-90x90.png 90w, https://www.ftf.org.tn/fr/wp-content/uploads/2025/05/Capture-d’écran-2025-05-13-à-21.17.42-40x40.png 40w" sizes="(max-width: 160px) 100vw, 160px" />                           	</div>
+						   
+                         2ème Avis &#8211; Acquisition des systèmes GPS </div></a>
+		             	 
+	 
+        </div>
+        
+        
+        <div class="home-widget-1 grid one-half">
+        
+                 
+       						<a href = "https://www.ftf.org.tn/fr/acquisition-des-systemes-de-communication-pour-les-arbitres-elite/">
+                          	<div class="articles-droite-container">
+                            
+                          	 
+							<div class="articles-droite-title">
+                         Acquisition des Systèmes de communication pour les Arbitres Elite </div></a> </div>
+		  
+       						<a href = "https://www.ftf.org.tn/fr/43140-2/">
+                          	<div class="articles-droite-container">
+                            
+                          	 
+							<div class="articles-droite-title">
+                         Désignation </div></a> </div>
+		  
+       						<a href = "https://www.ftf.org.tn/fr/communique-9/">
+                          	<div class="articles-droite-container">
+                            
+                          	 
+							<div class="articles-droite-title">
+                         Communiqué </div></a> </div>
+		  
+       						<a href = "https://www.ftf.org.tn/fr/avis-de-consultation-offre-de-prix-concernant-fourniture-avec-montage-et-finition-de-rayonnages-pour-la-federation-tunisienne-de-football/">
+                          	<div class="articles-droite-container">
+                            
+                          	 
+							<div class="articles-droite-title">
+                         Avis de consultation : Offre de prix concernant fourniture avec montage et finition de RAYONNAGES pour la Fédération Tunisienne de Football </div></a> </div>
+		  
+       						<a href = "https://www.ftf.org.tn/fr/avis-de-consultation-fourniture-de-la-technologie-var/">
+                          	<div class="articles-droite-container">
+                            
+                          	 
+							<div class="articles-droite-title">
+                         Avis de consultation : Fourniture de la technologie VAR </div></a> </div>
+		  
+       						<a href = "https://www.ftf.org.tn/fr/appel-doffres-des-travaux-de-cristallisation-du-marbre-et-nettoyage-des-gres/">
+                          	<div class="articles-droite-container">
+                            
+                          	 
+							<div class="articles-droite-title">
+                         Appel d’offres : Des travaux de cristallisation du marbre et nettoyage des grès </div></a> </div>
+		  
+       						<a href = "https://www.ftf.org.tn/fr/avis-de-consultation-acquisition-de-materiel-informatique-et-accessoires/">
+                          	<div class="articles-droite-container">
+                            
+                          	 
+							<div class="articles-droite-title">
+                         Avis de consultation : Acquisition de matériel informatique et Accessoires </div></a> </div>
+		  
+       						<a href = "https://www.ftf.org.tn/fr/avis-de-consultation-acquisition-des-plantations/">
+                          	<div class="articles-droite-container">
+                            
+                          	 
+							<div class="articles-droite-title">
+                         Avis de consultation : Acquisition des plantations </div></a> </div>
+		  
+       						<a href = "https://www.ftf.org.tn/fr/appel-doffres-acquisition-gres-dans-la-masse/">
+                          	<div class="articles-droite-container">
+                            
+                          	 
+							<div class="articles-droite-title">
+                         Appel d’offres : Acquisition Grès dans la masse </div></a> </div>
+		             	 
+        
+        
+        </div>
+        
+        
+           
+    
+   <div class="countdown_timer">
+   <script type="text/javascript">
+ 
+
+var CDown = function() {
+	this.state=0;// if initialized
+	this.counts=[];// array holding countdown date objects and id to print to {d:new Date(2013,11,18,18,54,36), id:"countbox1"}
+	this.interval=null;// setInterval object
+}
+
+CDown.prototype = {
+	init: function(){
+		this.state=1;
+		var self=this;
+		this.interval=window.setInterval(function(){self.tick();}, 1000);
+	},
+	add: function(date,id){
+		this.counts.push({d:date,id:id});
+		this.tick();
+		if(this.state==0) this.init();
+	},
+	expire: function(idxs){
+		for(var x in idxs) {
+			this.display(this.counts[idxs[x]], " ");
+			this.counts.splice(idxs[x], 1);
+		}
+	},
+	format: function(r){
+		var out="";
+		if(r.d != 0){out += r.d +" "+((r.d==1)?"Jour":"Jours")+", ";}
+		if(r.h != 0){out += r.h +" "+((r.h==1)?"Heure":"Heures")+", ";}
+		out += r.m +" "+((r.m==1)?"min":"mins")+", ";
+		out += r.s +" "+((r.s==1)?"sec":"secs")+", ";
+
+		return out.substr(0,out.length-2);
+	},
+	math: function(work){
+		var	y=w=d=h=m=s=ms=0;
+
+		ms=(""+((work%1000)+1000)).substr(1,3);
+		work=Math.floor(work/1000);//kill the "milliseconds" so just secs
+
+		y=Math.floor(work/31536000);//years (no leapyear support)
+		w=Math.floor(work/604800);//weeks
+		d=Math.floor(work/86400);//days
+		work=work%86400;
+
+		h=Math.floor(work/3600);//hours
+		work=work%3600;
+
+		m=Math.floor(work/60);//minutes
+		work=work%60;
+
+		s=Math.floor(work);//seconds
+
+		return {y:y,w:w,d:d,h:h,m:m,s:s,ms:ms};
+	},
+	tick: function(){
+		var now=(new Date()).getTime(),
+			expired=[],cnt=0,amount=0;
+
+		if(this.counts)
+		for(var idx=0,n=this.counts.length; idx<n; ++idx){
+			cnt=this.counts[idx];
+			amount=cnt.d.getTime()-now;//calc milliseconds between dates
+
+			// if time is already past
+			if(amount<0){
+				expired.push(idx);
+			}
+			// date is still good
+			else{
+				this.display(cnt, this.format(this.math(amount)));
+			}
+		}
+
+		// deal with any expired
+		if(expired.length>0) this.expire(expired);
+
+		// if no active counts, stop updating
+		if(this.counts.length==0) window.clearTimeout(this.interval);
+		
+	},
+	display: function(cnt,msg){
+		document.getElementById(cnt.id).innerHTML=msg;
+	}
+};
+
+window.onload=function(){
+var cdown = new CDown();
+
+var jm="1";
+var mm="01";
+var am="1970";
+
+var minM=null;
+var heurM="";
+
+cdown.add(new Date(am,mm-1,jm,heurM,minM,52), "countbox1");
+
+};
+</script>
+
+
+   
+ 
+   
+   
+   
+   
+   
+   </div>
+
+ 
+
+
+
+ 
+  
+ 
+
+        </div><!--/.pad-->  
+	
+    
+    
+    
+    
+</section><!--/.content-->
+
+
+	<div class="sidebar s1">
+		
+		<a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+		
+		<div class="sidebar-content">
+			
+						
+						
+			<div id="wlwi-9" class="widget widget_wlwi"><h3>Note circulaire 2024/2025</h3><ul class="links_with_icons"><div class="linksWidgetAll"> <div class="linksWidgetImages"> <a target="_blank" href="https://www.ftf.org.tn/fr/wp-content/uploads/2024/07/Note-Circulaire-2425001.pdf"><img src="//www.ftf.org.tn/fr/wp-content/uploads/2024/07/Note-Circulaire-2024-2025.jpg"></a></div> <div class="linksWidget"> <a target="_blank" href="https://www.ftf.org.tn/fr/wp-content/uploads/2024/07/Note-Circulaire-2425001.pdf">Note circulaire 2024/2025</a></div> </div> </ul></div><div id="wlwi-3" class="widget widget_wlwi"><h3>Liste Interdiction 2025</h3><ul class="links_with_icons"><div class="linksWidgetAll"> <div class="linksWidgetImages"> <a target="_blank" href="https://www.ftf.org.tn/fr/wp-content/uploads/2024/11/liste-des-interdictions-202514112024111820.pdf"><img src="//www.ftf.org.tn/fr/wp-content/uploads/2014/12/Liste-Interdiction.jpg"></a></div> <div class="linksWidget"> <a target="_blank" href="https://www.ftf.org.tn/fr/wp-content/uploads/2024/11/liste-des-interdictions-202514112024111820.pdf">Liste Interdiction 2025</a></div> </div> </ul></div>			
+		</div><!--/.sidebar-content-->
+		
+	</div><!--/.sidebar-->
+
+		
+
+				</div><!--/.main-inner-->
+			</div><!--/.main-->			
+		</div><!--/.container-inner-->
+	</div><!--/.container-->
+
+	<footer id="footer">	
+				
+		<section class="container" id="footer-widgets">
+			<div class="container-inner">
+				
+				<div class="pad group">
+																
+					<div class="footer-widget-1 grid one-third ">
+						<div id="calendar-2" class="widget widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar">
+	<caption>mars 2026</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="lundi">L</th>
+		<th scope="col" title="mardi">M</th>
+		<th scope="col" title="mercredi">M</th>
+		<th scope="col" title="jeudi">J</th>
+		<th scope="col" title="vendredi">V</th>
+		<th scope="col" title="samedi">S</th>
+		<th scope="col" title="dimanche">D</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="https://www.ftf.org.tn/fr/2026/02/">&laquo; Fév</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="6" class="pad">&nbsp;</td><td>1</td>
+	</tr>
+	<tr>
+		<td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td>
+	</tr>
+	<tr>
+		<td>9</td><td><a href="https://www.ftf.org.tn/fr/2026/03/10/" aria-label="Publications publiées sur 10 March 2026">10</a></td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td>
+	</tr>
+	<tr>
+		<td>16</td><td>17</td><td><a href="https://www.ftf.org.tn/fr/2026/03/18/" aria-label="Publications publiées sur 18 March 2026">18</a></td><td>19</td><td>20</td><td>21</td><td>22</td>
+	</tr>
+	<tr>
+		<td><a href="https://www.ftf.org.tn/fr/2026/03/23/" aria-label="Publications publiées sur 23 March 2026">23</a></td><td><a href="https://www.ftf.org.tn/fr/2026/03/24/" aria-label="Publications publiées sur 24 March 2026">24</a></td><td>25</td><td id="today"><a href="https://www.ftf.org.tn/fr/2026/03/26/" aria-label="Publications publiées sur 26 March 2026">26</a></td><td>27</td><td>28</td><td>29</td>
+	</tr>
+	<tr>
+		<td>30</td><td>31</td>
+		<td class="pad" colspan="5">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></div>					</div>
+					
+																						
+					<div class="footer-widget-2 grid one-third ">
+						<div id="custom_html-5" class="widget_text widget widget_custom_html"><h3>Suivez nous</h3><div class="textwidget custom-html-widget"><ul class="social-links">
+    <li>
+        <a rel="nofollow" class="social-tooltip" href="https://www.facebook.com/ftf.officielle" target="_blank">
+            <i class="fa fa-facebook" style="background: #3a5795; border: 4px solid #3a5795;"></i>
+        </a>
+    </li>
+
+    <li>
+        <a rel="nofollow" class="social-tooltip" href="https://www.instagram.com/ftf.officielle" target="_blank">
+            <i class="fa fa-instagram" style="background: #a22eb9; border: 4px solid #a22eb9;"></i>
+        </a>
+    </li>
+
+    <li>
+        <a rel="nofollow" class="social-tooltip" href="https://www.youtube.com/c/ftfofficielle" target="_blank">
+            <i class="fa fa-youtube" style="background: #e02d28; border: 4px solid #e02d28;"></i>
+        </a>
+    </li>
+
+    <li>
+        <a rel="nofollow" class="social-tooltip" href="https://www.instagram.com/ftf.officielle" target="_blank">
+            <i class="fa fa-twitter" style="background: #34b3f7; border: 4px solid #34b3f7;"></i>
+        </a>
+    </li>
+</ul>
+</div></div>					</div>
+					
+																						
+					<div class="footer-widget-3 grid one-third last">
+						<div id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-menu-bas-container"><ul id="menu-menu-bas" class="menu"><li id="menu-item-2932" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2932"><a href="https://www.ftf.org.tn/fr/arbitres-internationaux/">Arbitres Internationaux</a></li>
+<li id="menu-item-2934" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2934"><a href="https://www.ftf.org.tn/fr/classement-general/">Classement Ligue I</a></li>
+</ul></div></div>					</div>
+					
+															</div><!--/.pad-->
+				
+			</div><!--/.container-inner-->
+		</section><!--/.container-->	
+				
+				
+		<section class="container" id="footer-bottom">
+			<div class="container-inner">
+				
+				<div class="pad group">
+					
+					<div class="grid one-half">
+						
+												
+						<div id="copyright">
+															<p>   Tous droits réservés <b><a href="/fr">FTF</a></b> <script type="text/javascript"> document.write(new Date().getFullYear()); </script></p>
+													</div><!--/#copyright-->
+						
+												
+					</div>
+					
+					<div class="grid one-half last">	
+						<!--/<ul class="social-links">
+                        
+                        <li>
+                        <a rel="nofollow" class="social-tooltip" href="https://www.facebook.com/FTFNEWS" target="_blank">
+                        <i class="fa fa-facebook" style="background: #3a5795;border: 4px solid #3a5795;"></i>
+                        </a></li>
+                        
+                        <li>
+                        <a rel="nofollow" class="social-tooltip dailymotion" href="http://www.dailymotion.com/ftftunisie" target="_blank">
+                        <i class="fa fa-Dailymotion"></i>
+                        </a>
+                        </li>
+                        
+                        
+                        <li>
+                        <a rel="nofollow" class="social-tooltip" href="https://www.youtube.com/channel/UCONSB1jLebExu7W1tQSjzmg" target="_blank">
+                        <i class="fa fa-youtube" style="background: #e02d28;border: 4px solid #e02d28;"></i>
+                        </a>
+                        </li>
+                        
+                        <li><a rel="nofollow" class="social-tooltip" href="http://www.ftf.org.tn/fr/contact/" target="_blank">
+                        <i class="fa fa-envelope-o" style="background: #e70013;border: 4px solid #e70013;"></i>
+                        </a>
+                        </li>
+                        
+                         
+                        <li><a rel="nofollow" class="social-tooltip" href="https://www.instagram.com/federationtunisiennedefootball/" target="_blank">
+                        <i class="fa fa-instagram" style="background: #e70013;border: 4px solid #e70013;"></i>
+                        </a>
+                        </li>
+                        
+                        
+                        
+                        </ul>-->
+					</div>
+				
+				</div><!--/.pad-->
+
+				<a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+				
+			</div><!--/.container-inner-->
+		</section><!--/.container-->
+		
+	</footer><!--/#footer-->
+
+</div><!--/#wrapper-->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var frontend_ajax_object = {"ajax_url":"https:\/\/www.ftf.org.tn\/fr\/wp-admin\/admin-ajax.php","ajax_nonce":"2975616bfd"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-content/plugins/accesspress-social-share/js/frontend.js'></script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"https:\/\/www.ftf.org.tn\/fr\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Envoi en cours ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript' src='//www.ftf.org.tn/fr/wp-content/plugins/wp-club-manager/assets/js/frontend/wpclubmanager.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"https:\/\/www.ftf.org.tn\/fr\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-content/plugins/wp-polls/polls-js.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ratingsL10n = {"plugin_url":"https:\/\/www.ftf.org.tn\/fr\/wp-content\/plugins\/wp-postratings","ajax_url":"https:\/\/www.ftf.org.tn\/fr\/wp-admin\/admin-ajax.php","text_wait":"Please rate only 1 post at a time.","image":"thumbs","image_ext":"gif","max":"2","show_loading":"1","show_fading":"1","custom":"1"};
+var ratings_1_mouseover_image=new Image();ratings_1_mouseover_image.src=ratingsL10n.plugin_url+"/images/"+ratingsL10n.image+"/rating_1_over."+ratingsL10n.image_ext;var ratings_2_mouseover_image=new Image();ratings_2_mouseover_image.src=ratingsL10n.plugin_url+"/images/"+ratingsL10n.image+"/rating_2_over."+ratingsL10n.image_ext;;
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-content/plugins/wp-postratings/postratings-js.js'></script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-includes/js/imagesloaded.min.js'></script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-content/themes/scoreline/js/jquery.qtip.min.js'></script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-content/themes/scoreline/js/scripts.js'></script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-content/themes/scoreline/js/jquery.sharrre.min.js'></script>
+<script type='text/javascript' src='//maps.googleapis.com/maps/api/js?sensor=false'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ubermenu_data = {"remove_conflicts":"on","reposition_on_load":"off","intent_delay":"300","intent_interval":"100","intent_threshold":"7","scrollto_offset":"50","scrollto_duration":"1000","responsive_breakpoint":"0","accessible":"on","retractor_display_strategy":"responsive","touch_off_close":"on","v":"3.1.0.1","ajax_url":"https:\/\/www.ftf.org.tn\/fr\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-content/plugins/ubermenu-wordpress-mega-menu-plugin_v3.1.0.1/assets/js/ubermenu.min.js'></script>
+<script type='text/javascript' src='https://www.ftf.org.tn/fr/wp-includes/js/wp-embed.min.js'></script>
+<!--[if lt IE 9]>
+<script src="https://www.ftf.org.tn/fr/wp-content/themes/scoreline/js/ie/respond.js"></script>
+<![endif]-->
+</body>
+</html><!--
+Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com
+
+8614 objets récupérés (3 MB) depuis Redis grâce à PhpRedis (v6.0.2).
+-->
